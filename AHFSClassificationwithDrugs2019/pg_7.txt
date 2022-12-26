@@ -1,0 +1,97 @@
+12:16.08 beta-Adrenergic Blocking Agents
+ ()
+12:16.08.04 Non-selective beta-Adrenergic Blocking Agents
+Carvedilol (397042)
+Labetalol (385034)
+Nadolol (382666)
+Nebivolol (308012)
+Pindolol (384032)
+Propranolol (382607)
+Sotalol (393010)
+Timolol (384029)
+12:16.08.08 Selective beta-Adrenergic Blocking Agents
+Acebutolol (387003)
+Atenolol (384031)
+Betaxolol (393047)
+Bisoprolol (393024)
+Esmolol (387013)
+Metoprolol (382864)
+12:20 Skeletal Muscle Relaxants
+ ()
+12:20.04 Centrally Acting Skeletal Muscle Relaxants
+Carisoprodol (382578)
+Chlorzoxazone (382577)
+Cyclobenzaprine (382514)
+Metaxalone (382010)
+Methocarbamol (382579)
+tiZANidine (303007)
+12:20.08 Direct-acting Skeletal Muscle Relaxants
+Dantrolene (382576)
+12:20.12 GABA-derivative Skeletal Muscle Relaxants
+Baclofen (382530)
+12:20.20 Neuromuscular Blocking Agents
+Atracurium (384052)
+Cisatracurium (307021)
+Mivacurium (379119)
+Neuromuscular Blocking Agents General 
+Pancuronium (382552)
+Rocuronium (394016)
+Succinylcholine (382554)
+Vecuronium (385026)
+12:20.92 Skeletal Muscle Relaxants, Miscellaneous
+Orphenadrine (382162)
+AbobotulinumtoxinA (315012)
+IncobotulinumtoxinA (315013)
+OnabotulinumtoxinA (305006)
+RimabotulinumtoxinB (315014)
+12:92 Autonomic Drugs, Miscellaneous
+Nicotine (384056)
+Varenicline (306019)16:00 Blood Derivatives
+Albumin Human (382142)
+Plasma Protein Fraction (382143)
+20:00 Blood Formation, Coagulation, and 
+Thrombosis Agents
+ ()
+20:04 Antianemia Drugs
+Darbepoetin Alfa (301064)
+Epoetin Alfa (392034)
+20:04.04 Iron Preparations
+Ferric Carboxymaltose (315011)
+Ferric Pyrophosphate Citrate (379058)
+Ferumoxytol (309018)
+Iron Dextran (382746)
+Iron Preparations, Oral (382778)
+Iron Sucrose (301048)
+Sodium Ferric Gluconate (399035)
+20:04.08 Liver and Stomach Preparations
+Vitamin B12 (382397)
+20:12 Antithrombotic Agents
+ ()
+20:12.04 Anticoagulants
+ ()
+20:12.04.08 Coumarin Derivatives
+Warfarin (382277)
+20:12.04.12 Direct Thrombin Inhibitors
+Argatroban (301006)
+Bivalirudin (301002)
+Dabigatran (311009)
+Desirudin (310022)
+20:12.04.14 Direct Factor Xa Inhibitors
+Apixaban (313017)
+Betrixaban (317044)
+Edoxaban Tosylate (315041)
+Rivaroxaban (312005)
+20:12.04.16 Heparins
+Dalteparin (396006)
+Enoxaparin (393016)
+Heparin (382826)
+20:12.04.92 Anticoagulants, Miscellaneous
+Antithrombin alfa (309004)
+Antithrombin III (308006)
+Fondaparinux (302012)
+Protein C (Human) (308038)
+Sodium Citrate (379158)
+20:12.14 Platelet-reducing Agents
+Anagrelide (308022)
+20:12.18 Platelet-aggregation Inhibitors
+© 2019, American Society of Health-System Pharmacists, Inc. Page 8 of 31

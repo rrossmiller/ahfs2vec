@@ -1,0 +1,97 @@
+Desmopressin (382876)
+Omnitrope (379128)
+Somatropin (379165)
+Vasopressin (382596)
+68:29 Somatostatin Agonists and Antagonists
+ ()
+68:29.04 Somatostatin Agonists
+Lanreotide (308003)
+Octreotide (393049)
+Pasireotide (313029)
+68:29.08 Somatostatin Antagonists
+ ()
+68:30 Somatotropin Agonists and Antagonists
+ ()
+68:30.04 Somatotropin Agonists
+Mecasermin (306004)
+Tesamorelin (311008)
+68:30.08 Somatotropin Antagonists
+Pegvisomant (303016)
+68:32 Progestins
+HYDROXYprogesterone (382467)
+medroxyPROGESTERone (382470)
+Megestrol (382003)
+Norethindrone (382473)
+Progesterone (382472)
+Progestins General Statement (382923)
+Estrogen-Progestin Combinations (382675)
+Megestrol (382003)
+Progestins (382556)
+68:34 Other Corpus Luteum Hormones
+ ()
+68:36 Thyroid and Antithyroid Agents
+ ()
+68:36.04 Thyroid Agents
+Levothyroxine (382461)
+Liothyronine (382462)
+Liotrix (382463)
+Thyroid (382475)
+Thyroid Agents General Statement (382924)
+68:36.08 Antithyroid Agents
+methIMAzole (382464)
+Potassium Iodide (382498)
+Propylthiouracil (382465)
+68:40 Leptins
+Metreleptin (316062)
+68:44 Renin-Angiotensin-Aldosterone System 
+(RAAS)
+Angiotensin II (318007)72:00 Local Anesthetics
+Articaine (301010)
+Bupivacaine (382703)
+Chloroprocaine (382699)
+Lidocaine (382701)
+Local Anesthetics, Parenteral, General 
+Mepivacaine (382702)
+Prilocaine (382697)
+Ropivacaine (319004)
+Tetracaine (382642)
+76:00 Oxytocics
+Carboprost (307030)
+Dinoprostone (382512)
+Ergonovine/Methylergonovine (382633)
+miFEPRIStone (300042)
+Oxytocin (382685)
+Sodium Chloride 20% Injection (382649)
+Urea 40-50% Injection (382513)
+78:00 Radioactive Agents
+Radium Ra-223 Dichloride (379145)
+Samarium Sm-153 Lexidronum (379150)
+Sodium Iodide I-131 (379160)
+Strontium Sr-89 Chloride (379171)
+Yttrium-90 Ibritumomab tiuxetan (379194)
+Iobenguane I-131 (318029)
+Lutetium Lu-177 Dotatate (318008)
+80:00 Antitoxins, Immune Globulins, Toxoids, and 
+Vaccines
+ ()
+80:02 Allergenic Extracts
+Grass Pollen Allergen Extract (Grastek) (379075)
+House Dust Mites Allergen Extract (Odactra) 
+Short Ragweed Pollen Allergen Extract 
+80:04 Antitoxins and Immune Globulins
+Anthrax Immune Globulin IV (Human) (317015)
+Antivenin (Latrodectus mactans) (Equine) 
+Antivenin (Micrurus fulvius) (Equine) (386017)
+Bezlotoxumab (316082)
+Botulism Antitoxin (Equine) (315015)
+Botulism Equine Trivalent Antitoxin (379023)
+Botulism Immune Globulin IV (303046)
+Centruroides Immune F(ab')2 (312006)
+Crotalidae Polyvalent Immune Fab (302023)
+Cytomegalovirus Immune Globulin IV (397030)
+Digoxin Immune Fab (386020)
+Diphtheria Antitoxin (382808)
+Hepatitis B Immune Globulin (381051)
+Immune Globulin (382815)
+Obiltoxaximab (316064)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 25 of 31

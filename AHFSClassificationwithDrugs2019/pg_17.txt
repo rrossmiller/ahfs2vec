@@ -1,0 +1,99 @@
+Sodium Phenylacetate and Sodium Benzoate 
+Sodium Phenylbutyrate (305014)
+40:12 Replacement Preparations
+Calcium Salts (382764)
+Dextran 40 (382066)
+Electrolytes (382110)
+Hetastarch (382068)
+Hydroxyethyl Starch 130/0.4 (314002)
+Manganese Chloride (379110)
+Phoxillum (379137)
+Potassium Supplements (382780)
+Prismasol (379141)
+Selenious Acid (317053)
+Sodium Chloride (382111)
+40:18 Ion-removing Agents
+ ()
+40:18.16 Sodium-removing Agents
+ ()
+40:18.17 Calcium-removing Agents
+Cellulose Sodium Phosphate (384057)
+40:18.18 Potassium-removing Agents
+Patiromer (316048)
+Sodium Polystyrene Sulfonate (382108)
+Sodium Zirconium Cyclosilicate (318038)
+40:18.19 Phosphate-removing Agents
+Ferric Citrate (315033)
+Lanthanum (304026)
+Sevelamer (301070)
+Sucroferric Oxyhydroxide (315034)
+Calcium Salts (382764)
+40:18.92 Other Ion-removing Agents
+Prussian Blue (303028)
+40:20 Caloric Agents
+Amino Acid Injections (382781)
+Dextrose (382624)
+Fat Emulsions (388003)
+Fish Oil Triglycerides (379060)
+Invert Sugar (382623)
+40:24 Salt and Sugar Substitutes
+Acesulfame (379001)
+Aspartame (379013)
+Cyclamate (379035)
+Mogrosides (379120)
+Neotame (379124)
+Saccharin (379149)
+Sorbitol (379167)
+Stevia (379170)
+Sucralose (379172)
+Xylitol (379193)
+40:28 Diuretics ()
+40:28.04 Carbonic Anhydrase Inhibitors
+acetaZOLAMIDE (382756)
+Carbonic Anhydrase Inhibitors General Statement 
+40:28.08 Loop Diuretics
+Bumetanide (384051)
+Ethacrynic Acid (382857)
+Furosemide (382858)
+Torsemide (394018)
+40:28.12 Osmotic Diuretics
+Mannitol (382645)
+Urea (382842)
+40:28.16 Potassium-sparing Diuretics
+aMILoride (381046)
+Triamterene (382337)
+Eplerenone (302037)
+Spironolactone (382627)
+40:28.20 Thiazide Diuretics
+Bendroflumethiazide (382573)
+Chlorothiazide (382341)
+hydroCHLOROthiazide (382571)
+Methyclothiazide (382569)
+Polythiazide (382568)
+Thiazides General Statement (382918)
+40:28.24 Thiazide-like Diuretics
+Chlorthalidone (382342)
+Indapamide (384062)
+metOLazone (382345)
+40:28.28 Vasopressin Antagonists
+Conivaptan (306025)
+Tolvaptan (309026)
+40:28.92 Diuretics, Miscellaneous
+Theophyllines (381006)
+40:36 Irrigating Solutions
+Acetic Acid (308023)
+Dimethyl Sulfoxide (379047)
+Glycine (379074)
+Irrigating Solutions (382635)
+Peritoneal Dialysis Solutions (387001)
+Ringer's (379148)
+Sterile Water (379169)
+Mannitol (382645)
+Sodium Chloride (382111)
+40:40 Uricosuric Agents
+Lesinurad (316072)
+Probenecid (382395)
+40:92 Electrolytic, Caloric, and Water Balance 
+Agents; Miscellaneous
+Burosumab-twza (318013)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 18 of 31

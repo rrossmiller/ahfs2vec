@@ -1,0 +1,100 @@
+Crotamiton (382833)
+Ivermectin (313021)
+Lindane (382651)
+Malathion (384040)
+Permethrin (398037)
+Pyrethrins with Piperonyl Butoxide (382528)
+Spinosad (311033)
+Sulfur (382726)
+84:04.92 Local Anti-infectives, Miscellaneous
+Alcohol, Isopropyl (379003)
+Benzalkonium (382506)
+Boric Acid (382360)
+Chlorhexidine (302010)
+Hexachlorophene (382369)
+Iodine (382368)
+Iodoquinol (382370)
+Mafenide (382263)
+Selenium Sulfide (382258)
+Silver Sulfadiazine (382598)
+Sodium Hypochlorite (379159)
+84:06 Anti-inflammatory Agents
+ ()
+84:06.08 Corticosteroids
+Alclometasone (387002)
+Amcinonide (382745)
+Betamethasone (382270)
+Clobetasol (386008)
+Clocortolone (385023)
+Desonide (382207)
+Desoximetasone (382208)
+Diflorasone (382210)
+Fluocinolone (382271)
+Flurandrenolide (382214)
+Halcinonide (382272)
+Halobetasol (379076)
+Hydrocortisone (382206)
+Mometasone (387014)
+Prednicarbate (394036)
+Topical Corticosteroids General Statement 
+Triamcinolone (382205)
+84:06.20 Nonsteroidal Anti-inflammatory Agents
+Diclofenac (301009)
+84:06.92 Anti-inflammatory Agents, Miscellaneous
+Crisaborole (317004)
+84:08 Antipruritics and Local Anesthetics
+Benzocaine (382424)
+Dibucaine (382421)
+Doxepin (394009)
+Ethyl Chloride (382425)
+Phenazopyridine (382231)
+Pramoxine (382429)
+diphenhydrAMINE (382539)84:12 Astringents
+Aluminum Acetate (308010)
+Aluminum Chloride (307024)
+84:16 Cell Stimulants and Proliferants
+Becaplermin (317040)
+Palifermin (305010)
+Tretinoin (382437)
+84:20 Detergents
+Green Soap (382444)
+84:24 Emollients, Demulcents, and Protectants
+Vitamins A and D (382435)
+84:24.04 Basic Lotions and Liniments
+Lactic Acid (379096)
+84:24.08 Basic Oils and Other Solvents
+ ()
+84:24.12 Basic Ointments and Protectants
+Mineral Oil, Light (379118)
+Petrolatum (379135)
+84:24.16 Basic Powders and Demulcents
+ ()
+84:28 Keratolytic Agents
+Allantoin (379004)
+Ammonium Lactate (379010)
+Salicylic Acid (382723)
+Sulfur (382726)
+Urea (382436)
+84:32 Keratoplastic Agents
+Coal Tar (384034)
+Zinc Pyrithione (379195)
+84:50 Depigmenting and Pigmenting Agents
+ ()
+84:50.04 Depigmenting Agents
+Hydroquinone (382379)
+Mequinol/Tretinoin (303021)
+Monobenzone (382378)
+84:50.06 Pigmenting Agents
+Dihydroxyacetone (382377)
+Methoxsalen (382384)
+84:80 Sunscreen Agents
+Sunscreens (382787)
+84:92 Skin and Mucous Membrane Agents, 
+Miscellaneous
+Acitretin (307034)
+Adapalene (398020)
+Alefacept (303006)
+Alitretinoin (301047)
+Aminolevulinic Acid (300001)
+Azelaic Acid (396002)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 27 of 31

@@ -1,0 +1,19 @@
+NOTE: The AHFS Classification of Devices (94:00) is derived from the FDA Device Classification Panels. Additional information 
+can be found at: http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Overview/ClassifyYourDevice/default.htm
+AHFS Classification numbers can be represented in several formats. The format represented here is the same as the one found in 
+the printed AHFS Drug Information and demonstrates the four level hierarchy of the system. For example, ceftriaxone is assigned 
+to 8:12.06.12. The "8" represents Anti-infective Agents, "8:12" represents Antibacterials, "8:12.06" represents Cephalosporins, 
+and finally "8:12.06.12" represents Third Generation Cephalosporins. This allows similar drugs to be grouped and reported on in 
+varying levels of specificity. Some drug database vendors only display the numbers, so 8:12.06.12 can also be 08120612.
+The number beside each drug in parentheses corresponds to the AHFS internal identifier for that drug's AHFS monograph. If the 
+number 0 appears beside a drug, then that drug does not have a corresponding AHFS monograph.
+Drug names are bold if they appear under their primary classification (the classification that monograph is printed under in the 
+AHFS Drug Information). Drug names are italicized if they appear under a secondary classification. If your system does not allow 
+a drug to fall under multiple therapeutic classifications, then pick the primary classification.
+All material distributed as part of AHFS Drug Information is copyrighted. Reproduction, storage on a retrieval system, or 
+transmission of this material or any part thereof in any form or by any means without the express written permission of the 
+American Society of Health-System Pharmacists is prohibited.
+Please contact the ASHP eHealth Solutions division at +1 (301) 664-8647 or ahfs@ashp.org for more detailed information.
+© Copyright, 2019, American Society of Health-System Pharmacists, Inc. All Rights Reserved.
+Classification listing - 3/5/2019 8:46:41 AM
+© 2019, American Society of Health-System Pharmacists, Inc. Page 31 of 31

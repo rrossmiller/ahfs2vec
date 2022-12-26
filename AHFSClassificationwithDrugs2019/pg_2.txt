@@ -1,0 +1,98 @@
+Oritavancin (315009)
+Teicoplanin (379179)
+Telavancin (310005)
+Vancomycin (382751)
+8:12.28.20 Lincomycins
+Clindamycin (382399)
+Lincomycin (382400)
+8:12.28.24 Oxazolidinones
+Linezolid (300022)
+Tedizolid (315010)
+8:12.28.28 Polymyxins
+Colistimethate (382860)
+Polymyxin B (382314)
+8:12.28.30 Rifamycins
+Rifamycin (319008)
+rifAXIMin (304016)
+Rifabutin (393009)
+rifAMPin (382403)
+Rifapentine (398033)
+8:12.28.32 Streptogramins
+Quinupristin/Dalfopristin (399037)
+8:12.28.92 Other Miscellaneous Antibacterials
+Fusidate Sodium (379066)
+8:14 Antifungals
+ ()
+8:14.04 Allylamines
+Terbinafine (396039)
+8:14.08 Azoles
+Fluconazole (390002)
+Isavuconazonium (315031)
+Itraconazole (392049)
+Ketoconazole (382816)
+Posaconazole (306026)
+Voriconazole (302024)
+8:14.16 Echinocandins
+Anidulafungin (306014)
+Caspofungin (301008)
+Micafungin (305017)
+8:14.28 Polyenes
+Amphotericin B (382643)
+Nystatin (382790)
+8:14.32 Pyrimidines
+Flucytosine (382230)
+8:14.92 Antifungals, Miscellaneous
+Griseofulvin (382295)
+Pentamidine (385029)
+Potassium Iodide (382498)
+8:16 Antimycobacterials
+ ()8:16.04 Antituberculosis Agents
+Aminosalicylic Acid (382146)
+Antituberculosis Agents General Statement 
+Bedaquiline (313023)
+Capreomycin (382147)
+cycloSERINE (382148)
+Ethambutol (382550)
+Ethionamide (382544)
+Isoniazid (382401)
+Pyrazinamide (382402)
+Rifabutin (393009)
+rifAMPin (382403)
+Rifapentine (398033)
+Amikacin (382661)
+Ciprofloxacin (388016)
+Clarithromycin (392005)
+levoFLOXacin (397040)
+Moxifloxacin (300002)
+Streptomycin (382665)
+8:16.92 Antimycobacterials, Miscellaneous
+Clofazimine (387012)
+Dapsone (382128)
+8:18 Antivirals
+ ()
+8:18.04 Adamantanes
+Amantadine (382064)
+riMANTAdine (398029)
+8:18.08 Antiretrovirals
+Antiretroviral Agents General Statement (397901)
+8:18.08.04 HIV Entry and Fusion Inhibitors
+Enfuvirtide (303014)
+Ibalizumab-uiyk (318012)
+Maraviroc (307027)
+8:18.08.08 HIV Protease Inhibitors
+Atazanavir (303032)
+Darunavir (306015)
+Darunavir, Cobicistat, Emtricitabine, Tenofovir 
+Fosamprenavir (303044)
+Indinavir (396028)
+Lopinavir and Ritonavir (300043)
+Nelfinavir (397034)
+Ritonavir (396029)
+Saquinavir (396001)
+Tipranavir (305041)
+8:18.08.12 HIV Integrase Inhibitors
+Bictegravir, Emtracitabine, Tenofovir 
+Dolutegravir (314004)
+Dolutegravir and Rilpivirine (317064)
+Elvitegravir, Cobicistat, Emtricitabine, and 
+© 2019, American Society of Health-System Pharmacists, Inc. Page 3 of 31

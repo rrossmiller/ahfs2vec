@@ -1,0 +1,102 @@
+Degarelix (309017)
+Exemestane (399038)
+Goserelin (302008)
+Histrelin (304025)
+Letrozole (398004)
+Leuprolide (385040)
+Lutetium Lu-177 Dotatate (318008)
+Megestrol (382003)
+Raloxifene (398007)
+Tamoxifen (382414)
+Tisagenlecleucel (379184)
+Toremifene (398005)
+Triptorelin (300033)
+12:00 Autonomic Drugs
+ ()
+12:04 Parasympathomimetic (Cholinergic) Agents
+Ambenonium (382228)
+Bethanechol (382849)
+Cevimeline (300036)
+Donepezil (397032)
+Galantamine (301012)
+Neostigmine (382226)
+Physostigmine (382083)
+Pilocarpine (318035)
+Pyridostigmine (382229)
+Rivastigmine (300028)
+12:08 Anticholinergic Agents
+ ()
+12:08.04 Antiparkinsonian Agents
+diphenhydrAMINE (382539)
+12:08.08 Antimuscarinics/Antispasmodics
+Aclidinium (313022)
+Antimuscarinics/Antispasmodics General 
+Atropine (384024)
+Belladonna (384021)
+Clidinium (384006)
+Dicyclomine (384007)
+Glycopyrrolate (384022)
+Hyoscyamine (384010)
+Ipratropium (395021)
+Mepenzolate (384012)
+Methscopolamine (384014)
+Propantheline (384020)
+Revefenacin (318059)
+Scopolamine (384023)
+Tiotropium (304004)
+Umeclidinium (315039)
+Glycopyrronium (318033)
+12:12 Sympathomimetic (Adrenergic) Agents
+ ()
+12:12.04 alpha-Adrenergic AgonistsLofexidine (318020)
+Midodrine (396042)
+Phenylephrine (382252)
+cloNIDine (382243)
+Guanabenz (386003)
+Methyldopa (382242)
+12:12.08 beta-Adrenergic Agonists
+ ()
+12:12.08.04 Non-selective beta-Adrenergic Agonists
+Isoproterenol (382606)
+12:12.08.08 Selective beta-1-Adrenergic Agonists
+DOBUTamine (382861)
+DOPamine (382529)
+12:12.08.12 Selective beta-2-Adrenergic Agonists
+Albuterol/Levalbuterol (382145)
+Arformoterol (307016)
+Formoterol (301023)
+Indacaterol (312016)
+Metaproterenol (382084)
+Olodaterol (315038)
+Salmeterol (395001)
+Terbutaline (382144)
+Vilanterol (315004)
+12:12.12 alpha- and beta-Adrenergic Agonists
+Droxidopa (315023)
+ePHEDrine (382253)
+EPINEPHrine (382789)
+Norepinephrine (382749)
+Pseudoephedrine (382619)
+12:16 Sympatholytic (Adrenergic Blocking) Agents
+ ()
+12:16.04 alpha-Adrenergic Blocking Agents
+ ()
+12:16.04.04 Non-selective alpha-Adrenergic Blocking 
+Agents
+Dihydroergotamine Mesylate (382191)
+Ergoloid Mesylates (382097)
+Ergotamine (382096)
+Phenoxybenzamine (382059)
+Phentolamine (382251)
+12:16.04.08 Non-selective alpha-1-Adrenergic Blocking 
+Agents
+Doxazosin (393045)
+Prazosin (382245)
+Terazosin (393046)
+12:16.04.12 Selective alpha-1-Adrenergic Blocking Agents
+Alfuzosin (303030)
+Silodosin (309015)
+Tamsulosin (398012)
+Carvedilol (397042)
+Labetalol (385034)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 7 of 31

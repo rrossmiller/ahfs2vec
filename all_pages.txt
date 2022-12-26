@@ -1,0 +1,2787 @@
+AHFS Pharmacologic-Therapeutic Classification System
+4:00 Antihistamine Drugs
+Antihistamines General Statement (382920)
+4:04 First Generation Antihistamines
+Brompheniramine (382545)
+Carbinoxamine (382883)
+Chlorpheniramine (382543)
+Clemastine (382542)
+Cyproheptadine (382541)
+diphenhydrAMINE (382539)
+Doxylamine (382537)
+Promethazine (382752)
+Triprolidine (382533)
+dimenhyDRINATE (382140)
+hydrOXYzine (382866)
+Meclizine (382548)
+4:04.04 Ethanolamine Derivatives
+Carbinoxamine (382883)
+Clemastine (382542)
+diphenhydrAMINE (382539)
+Doxylamine (382537)
+4:04.08 Ethylenediamine Derivatives
+4:04.12 Phenothiazine Derivatives
+Promethazine (382752)
+4:04.16 Piperazine Derivatives
+4:04.20 Propylamine Derivatives
+Brompheniramine (382545)
+Chlorpheniramine (382543)
+Triprolidine (382533)
+4:04.92 Miscellaneous Derivatives
+Cyproheptadine (382541)
+4:08 Second Generation Antihistamines
+Acrivastine (394040)
+Cetirizine (398026)
+Desloratadine (302004)
+Fexofenadine (397035)
+Levocetirizine (307015)
+Loratadine (397038)
+Lodoxamide (394014)
+4:92 Other Antihistamines
+Cimetidine (382256)
+Emedastine (399007)
+Famotidine (387011)
+hydrOXYzine (382866)
+Ketotifen (399018)
+Nizatidine (394030)
+Olopatadine (399006
+raNITIdine (384046)
+8:00 Anti-infective Agents
+8:08 Anthelmintics
+Albendazole (397043)
+Bithionol (379021)
+Diethylcarbamazine (379044)
+Ivermectin (304023)
+Mebendazole (382315)
+Moxidectin (379122)
+Praziquantel (384064)
+Pyrantel (382820)
+Triclabendazole (379185)
+8:12 Antibacterials
+8:12.02 Aminoglycosides
+Amikacin (382661)
+Aminoglycosides General Statement (382929)
+Gentamicin (382664)
+Neomycin (382662)
+Plazomicin (318024)
+Streptomycin (382665)
+Tobramycin (382660)
+Paromomycin (382152)
+8:12.06 Cephalosporins
+Cephalosporins General Statement (382930)
+8:12.06.04 First Generation Cephalosporins
+Cefadroxil (382730)
+ceFAZolin (382731)
+Cephalexin (382733)
+8:12.06.08 Second Generation Cephalosporins
+Cefaclor (382729)
+Cefprozil (398022)
+Cefuroxime (384044)
+cefoTEtan (386015)
+cefOXitin (382737)
+8:12.06.12 Third Generation Cephalosporins
+Cefdinir (398001)
+Cefditoren (301058)
+Cefixime (390007)
+Cefotaxime (382765)
+Cefpodoxime (398024)
+cefTAZidime (386007)
+cefTAZidime and Avibactam Sodium (315028)
+Ceftibuten (398023)
+Ceftolozane Sulfate and Tazobactam Sodium cefTRIAXone (385032)
+8:12.06.16 Fourth Generation Cephalosporins
+Cefepime (398021)
+8:12.06.20 Fifth Generation Cephalosporins
+Ceftaroline (311012)
+Ceftobiprole (379031)
+8:12.07 Miscellaneous beta-Lactams
+8:12.07.04 Carbacephems
+8:12.07.08 Carbapenems
+Doripenem (308009)
+Ertapenem (302001)
+Imipenem and Cilastatin (386013)
+Meropenem (396038)
+Meropenem and Vaborbactam (317056)
+8:12.07.12 Cephamycins
+cefoTEtan (386015)
+cefOXitin (382737)
+8:12.07.16 Monobactams
+Aztreonam (387010)
+8:12.08 Chloramphenicol
+Chloramphenicol (382216)
+8:12.12 Macrolides
+8:12.12.04 Erythromycins
+Erythromycin (382392)
+Erythromycin Estolate (382393)
+Erythromycin Ethylsuccinate (382391)
+Erythromycin Lactobionate (382845)
+Erythromycin Stearate (382846)
+Erythromycins General Statement (382940)
+8:12.12.12 Ketolides
+Telithromycin (304011)
+8:12.12.92 Other Macrolides
+Azithromycin (397037)
+Clarithromycin (392005)
+Fidaxomicin (311029)
+8:12.16 Penicillins
+Preface to Penicillins (385901)
+8:12.16.04 Natural Penicillins
+Natural Penicillins General Statement (385904)
+Penicillin G Benzathine (385012)
+Penicillin G Potassium, Penicillin G Sodium Penicillin G Procaine (385014)
+Penicillin V (385015)
+8:12.16.08 Aminopenicillins
+Aminopenicillins General Statement (385902)
+Amoxicillin (385001
+Amoxicillin/Clavulanate (385024)
+Ampicillin (385002)
+Ampicillin/Sulbactam (393021)
+8:12.16.12 Penicillinase-resistant Penicillins
+Dicloxacillin (385017)
+Nafcillin (385019)
+Oxacillin (385020)
+Penicillinase-Resistant Penicillins General 
+8:12.16.16 Extended-spectrum Penicillins
+Extended-Spectrum Penicillins General Piperacillin and Tazobactam (394003)
+Ticarcillin and Clavulanate (385037)
+8:12.18 Quinolones
+Ciprofloxacin (388016)
+Delafloxacin (317043)
+Gemifloxacin (303019)
+levoFLOXacin (397040)
+Moxifloxacin (300002)
+Ofloxacin (391005)
+8:12.20 Sulfonamides
+Co-trimoxazole (384026)
+sulfADIAZINE (382130)
+sulfaSALAzine (382204)
+Sulfonamides General Statement (382915)
+8:12.24 Tetracyclines
+Demeclocycline (382103)
+Doxycycline (382063)
+Minocycline (382101)
+Tetracycline (382098)
+Tetracyclines General Statement (382911)
+8:12.24.04 Aminomethylcyclines
+Omadacycline (318054)
+Sarecycline (318051)
+8:12.24.08 Fluorocyclines
+Eravacycline (318045)
+8:12.24.12 Glycylcyclines
+Tigecycline (305040)
+8:12.28 Antibacterials, Miscellaneous
+8:12.28.04 Aminocyclitols
+8:12.28.08 Bacitracins
+Bacitracin (382292)
+8:12.28.12 Cyclic Lipopeptides
+DAPTOmycin (303042)
+8:12.28.16 Glycopeptides
+Dalbavancin (315008)
+Oritavancin (315009)
+Teicoplanin (379179)
+Telavancin (310005)
+Vancomycin (382751)
+8:12.28.20 Lincomycins
+Clindamycin (382399)
+Lincomycin (382400)
+8:12.28.24 Oxazolidinones
+Linezolid (300022)
+Tedizolid (315010)
+8:12.28.28 Polymyxins
+Colistimethate (382860)
+Polymyxin B (382314)
+8:12.28.30 Rifamycins
+Rifamycin (319008)
+rifAXIMin (304016)
+Rifabutin (393009)
+rifAMPin (382403)
+Rifapentine (398033)
+8:12.28.32 Streptogramins
+Quinupristin/Dalfopristin (399037)
+8:12.28.92 Other Miscellaneous Antibacterials
+Fusidate Sodium (379066)
+8:14 Antifungals
+8:14.04 Allylamines
+Terbinafine (396039)
+8:14.08 Azoles
+Fluconazole (390002)
+Isavuconazonium (315031)
+Itraconazole (392049)
+Ketoconazole (382816)
+Posaconazole (306026)
+Voriconazole (302024)
+8:14.16 Echinocandins
+Anidulafungin (306014)
+Caspofungin (301008)
+Micafungin (305017)
+8:14.28 Polyenes
+Amphotericin B (382643)
+Nystatin (382790)
+8:14.32 Pyrimidines
+Flucytosine (382230)
+8:14.92 Antifungals, Miscellaneous
+Griseofulvin (382295)
+Pentamidine (385029)
+Potassium Iodide (382498)
+8:16 Antimycobacterials
+8:16.04 Antituberculosis Agents
+Aminosalicylic Acid (382146)
+Antituberculosis Agents General Statement Bedaquiline (313023)
+Capreomycin (382147)
+cycloSERINE (382148)
+Ethambutol (382550)
+Ethionamide (382544)
+Isoniazid (382401)
+Pyrazinamide (382402)
+Rifabutin (393009)
+rifAMPin (382403)
+Rifapentine (398033)
+Amikacin (382661)
+Ciprofloxacin (388016)
+Clarithromycin (392005)
+levoFLOXacin (397040)
+Moxifloxacin (300002)
+Streptomycin (382665)
+8:16.92 Antimycobacterials, Miscellaneous
+Clofazimine (387012)
+Dapsone (382128)
+8:18 Antivirals
+8:18.04 Adamantanes
+Amantadine (382064)
+riMANTAdine (398029)
+8:18.08 Antiretrovirals
+Antiretroviral Agents General Statement (397901)
+8:18.08.04 HIV Entry and Fusion Inhibitors
+Enfuvirtide (303014)
+Ibalizumab-uiyk (318012)
+Maraviroc (307027)
+8:18.08.08 HIV Protease Inhibitors
+Atazanavir (303032)
+Darunavir (306015)
+Darunavir, Cobicistat, Emtricitabine, Tenofovir Fosamprenavir (303044)
+Indinavir (396028)
+Lopinavir and Ritonavir (300043)
+Nelfinavir (397034)
+Ritonavir (396029)
+Saquinavir (396001)
+Tipranavir (305041)
+8:18.08.12 HIV Integrase Inhibitors
+Bictegravir, Emtracitabine, Tenofovir Dolutegravir (314004)
+Dolutegravir and Rilpivirine (317064)
+Elvitegravir, Cobicistat, Emtricitabine, and Elvitegravir, Cobicistat, Emtricitabine, and Raltegravir (307032)
+8:18.08.16 HIV Nonnucleoside Reverse Transcriptase Inhibitors
+Delavirdine (300034)
+Doravirine (318043)
+Efavirenz (399004)
+Etravirine (308007)
+Nevirapine (300035)
+Rilpivirine (311021)
+Dolutegravir and Rilpivirine (317064)
+8:18.08.20 HIV Nucleoside and Nucleotide Reverse Transcriptase Inhibitors
+Abacavir (399012)
+Didanosine (391006)
+Emtricitabine (303035)
+lamiVUDine (396011)
+Stavudine (394033)
+Tenofovir Alafenamide (316083)
+Tenofovir Disoproxil Fumarate (301063)
+Zidovudine (387007)
+8:18.08.92 Antiretrovirals, Miscellaneous
+8:18.20 Interferons
+Interferon Alfa (301061)
+Peginterferon Alfa (301060)
+Interferon Alfa (390006)
+8:18.24 Monoclonal Antibodies
+Palivizumab (398034)
+8:18.28 Neuraminidase Inhibitors
+Oseltamivir (399040)
+Peramivir (315026)
+Zanamivir (399021)
+8:18.32 Nucleosides and Nucleotides
+Acyclovir (381045)
+Adefovir (302036)
+Cidofovir (396037)
+Entecavir (305015)
+Famciclovir (394038)
+Ganciclovir (389014)
+Ribavirin (386021)
+Telbivudine (307005)
+Tenofovir Alafenamide (316083)
+valACYclovir (395010)
+valGANciclovir (301022)
+8:18.40 HCV Antivirals
+8:18.40.04 HCV Cyclophilin Inhibitors*
+8:18.40.08 HCV Entry Inhibitors*
+8:18.40.16 HCV Polymerase Inhibitors
+Dasabuvir (379037)
+Dasabuvir, Ombitasvir, Paritaprevir, and Sofosbuvir (314012)
+Sofosbuvir and Velpatasvir (317003)
+Sofosbuvir, Velpatasvir, Voxilaprevir (317048)
+Ledipasvir and Sofosbuvir (315020)
+8:18.40.20 HCV Protease Inhibitors
+Asunaprevir (379014)
+Faldaprevir (379057)
+Glecaprevir (317051)
+Glecaprevir And Pibrentasvir (317051)
+Paritaprevir (379133)
+Simeprevir (314011)
+Voxilaprevir (379192)
+Dasabuvir, Ombitasvir, Paritaprevir, and Ritonavir Ombitasvir, Paritaprevir, Ritonavir (316012)
+8:18.40.24 HCV Replication Complex Inhibitors
+Daclatasvir (316011)
+Elbasvir and Grazoprevir (316014)
+Ledipasvir and Sofosbuvir (315020)
+Ombitasvir, Paritaprevir, Ritonavir (316012)
+Pibrentasvir (317051)
+Dasabuvir, Ombitasvir, Paritaprevir, and Ritonavir Sofosbuvir and Velpatasvir (317003)
+8:18.40.92 HCV Antivirals, Miscellaneous*
+8:18.92 Antivirals, Miscellaneous
+Baloxavir (318058)
+Foscarnet (392019)
+Letermovir (317062)
+Tecovirimat (318039)
+8:30 Antiprotozoals
+8:30.04 Amebicides
+Dehydroemetine (379038)
+Iodoquinol (382151)
+Paromomycin (382152)
+metroNIDAZOLE (382244)
+8:30.08 Antimalarials
+Artemether and Lumefantrine (309016)
+Artesunate (379012)
+Atovaquone and Proguanil (300038)
+Chloroquine (382318)
+Hydroxychloroquine (382319)
+Mefloquine (397039)
+Primaquine (382320)
+Pyrimethamine (382321)
+quiNINE Sulfate (382322)
+Tafenoquine (319007)
+Doxycycline (382063)
+Minocycline (382101)
+quiNIDine (382396)
+Tetracycline (382098)
+Tetracyclines General Statement (382911)
+8:30.92 Antiprotozoals, Miscellaneous
+Atovaquone (393003)
+Benznidazole (318001)
+metroNIDAZOLE (382244)
+Miltefosine (316003)
+Nitazoxanide (303004)
+Pentamidine (385029)
+Secnidazole (317057)
+Suramin sodium (379175)
+Tinidazole (304014)
+Co-trimoxazole (384026)
+Dapsone (382128)
+8:36 Urinary Anti-infectives
+Fosfomycin (397008)
+Methenamine (382296)
+Nitrofurantoin (382291)
+Trimethoprim (384025)
+8:92 Anti-infectives, Miscellaneous
+Melarsoprol (379112)
+Nifurtimox (379125)
+Sodium antimony gluconate (379157)
+Sodium Stibogluconate (379163)
+Spiramycin (379168)
+10:00 Antineoplastic Agents
+Abemaciclib (317058)
+Abiraterone (311027)
+Acalabrutinib (317059)
+Ado-Trastuzumab (313041)
+Afatinib (314007)
+Aldesleukin (392009)
+Alectinib (316020)
+Alemtuzumab (301034)
+Altretamine (308015)
+Amsacrine (379011)
+Antineoplastic Agents General Statement Apalutamide (318010)
+Arsenic Trioxide (301014)
+Asparaginase (Erwinia chrysanthemi) (312023)
+Atezolizumab (316021)
+Avelumab (317023)
+Axitinib (312017)
+azaCITIDine (304015)
+Belinostat (315001
+Bendamustine (308024)
+Bevacizumab (304008)
+Bexarotene (300029)
+Bicalutamide (397047)
+Binimetinib (318022)
+Bleomycin (382125)
+Blinatumomab (316001)
+Bortezomib (303026)
+Bosutinib (313004)
+Brentuximab (312011)
+Brigatinib (317033)
+Busulfan (382248)
+Cabazitaxel (311007)
+Cabozantinib (313027)
+Calaspargase pegol-mknl (379026)
+Capecitabine (399003)
+CARBOplatin (395017)
+Carfilzomib (313002)
+Carmustine (382060)
+Cemiplimab-rwlc (318048)
+Ceritinib (314016)
+Cetuximab (304006)
+Chlorambucil (382899)
+CISplatin (384036)
+Cladribine (393015)
+Clofarabine (305004)
+Cobimetinib (316015)
+Copanlisib (317055)
+Crizotinib (312004)
+Cyclophosphamide (382080)
+Cytarabine (382222)
+Dabrafenib (313039)
+Dacarbazine (382750)
+Dacomitinib (318049)
+DACTINomycin (382224)
+Daratumumab (316022)
+Dasatinib (306020)
+DAUNOrubicin (382289)
+DAUNOrubicin and Cytarabine (317052)
+Decitabine (306018)
+Denileukin (301049)
+Dinutuximab (316005)
+DOCEtaxel (396031)
+DOXOrubicin (382221)
+Durvalumab (317032)
+Duvelisib (318052)
+Elotuzumab (316023)
+Enasidenib (317049)
+Encorafenib (318023)
+Enzalutamide (313005)
+epiRUBicin (399030)
+eriBULin (311019)
+Erlotinib (304028)
+Estramustine (302029)
+Etoposide (384055)
+Everolimus (309008)
+Floxuridine (382006)
+Fludarabine (392003)
+Fluorouracil (382005)
+Flutamide (397045)
+Fulvestrant (302019)
+Gefitinib (303025)
+Gemcitabine (396019)
+Gemtuzumab (300030)
+Gilteritinib (318066)
+Glasdegib (318065)
+Hydroxyurea (382004)
+Ibritumomab (302022)
+Ibrutinib (315032)
+IDArubicin (303037)
+Idelalisib (315019)
+Ifosfamide (395023)
+Imatinib (301024)
+Inotuzumab (317054)
+Interferon Alfa (390006)
+Iobenguane I-131 (318029)
+Ipilimumab (311018)
+Irinotecan (396034)
+Ivosidenib (318026)
+Ixabepilone (308027)
+Ixazomib Citrate (316024)
+Lapatinib (307006)
+Larotrectinib (318064)
+Lenalidomide (306005)
+Lenvatinib (315036)
+Lomustine (382297)
+Lorlatinib (318060)
+Mechlorethamine (382223)
+Melphalan (382220)
+Mercaptopurine (382653)
+Methotrexate (382018)
+Midostaurin (317034)
+mitoMYcin (382415)
+Mitotane (382380)
+mitoXANTRONE (396040)
+Mogamulizumab-kpkc (318034)
+Moxetumomab-tdfk (318056)
+Necitumumab (316025)
+Nelarabine (306012)
+Neratinib (317050)
+Nilotinib (308017)
+Nilutamide (397044)
+Niraparib (317030)
+Nivolumab (315022)
+Obinutuzumab (314013)
+Ofatumumab (310003)
+Olaparib (315030)
+Olaratumab (316081)
+Omacetaxine (313028)
+Osimertinib (316026)
+Oxaliplatin (302033)
+PACLitaxel (398035
+Palbociclib (316027)
+Panitumumab (307004)
+Panobinostat (315035)
+PAZOPanib (310010)
+Pegaspargase (395031)
+Peginterferon Alfa (314015)
+Pembrolizumab (315018)
+PEMEtrexed (304005)
+Pentostatin (392004)
+Pertuzumab (313007)
+Pomalidomide (313042)
+PONATinib (313037)
+Porfimer (379139)
+PRALAtrexate (310001)
+Procarbazine (382094)
+Ramucirumab (315007)
+Regorafenib (313033)
+Ribociclib (317022)
+riTUXimab (398003)
+romiDEPsin (310004)
+Rucaparib (317001)
+Ruxolitinib (312013)
+Siltuximab (315037)
+Sonidegib (316028)
+SORAfenib (306001)
+Streptozocin (384053)
+SUNItinib (306007)
+Tagraxofusp-erzs (319006)
+Talazoparib (318057)
+Talimogene Laherparepvec (316007)
+Temozolomide (399025)
+Temsirolimus (307013)
+Teniposide (392045)
+Thioguanine (382099)
+Thiotepa (382821)
+Topotecan (397006)
+Trabectedin (316029)
+Trametinib Dimethyl Sulfoxide (313040)
+Trastuzumab (399019)
+Tretinoin (303005)
+Trifluridine and Tipiracil (316030)
+Valrubicin (300020)
+Vandetanib (311024)
+Vemurafenib (312001)
+Venetoclax (316031)
+vinBLAStine (382848)
+vinCRIStine (382822)
+Vinorelbine (395013)
+Vismodegib (312012)
+Vorinostat (307009)
+Ziv-aflibercept (313003)
+Alemtuzumab (315048)
+Anastrozole (396018)
+Axicabtagene Ciloleucel (379016)
+BCG Vaccine (382809)
+Degarelix (309017)
+Exemestane (399038)
+Goserelin (302008)
+Histrelin (304025)
+Letrozole (398004)
+Leuprolide (385040)
+Lutetium Lu-177 Dotatate (318008)
+Megestrol (382003)
+Raloxifene (398007)
+Tamoxifen (382414)
+Tisagenlecleucel (379184)
+Toremifene (398005)
+Triptorelin (300033)
+12:00 Autonomic Drugs
+12:04 Parasympathomimetic (Cholinergic) Agents
+Ambenonium (382228)
+Bethanechol (382849)
+Cevimeline (300036)
+Donepezil (397032)
+Galantamine (301012)
+Neostigmine (382226)
+Physostigmine (382083)
+Pilocarpine (318035)
+Pyridostigmine (382229)
+Rivastigmine (300028)
+12:08 Anticholinergic Agents
+12:08.04 Antiparkinsonian Agents
+diphenhydrAMINE (382539)
+12:08.08 Antimuscarinics/Antispasmodics
+Aclidinium (313022)
+Antimuscarinics/Antispasmodics General Atropine (384024)
+Belladonna (384021)
+Clidinium (384006)
+Dicyclomine (384007)
+Glycopyrrolate (384022)
+Hyoscyamine (384010)
+Ipratropium (395021)
+Mepenzolate (384012)
+Methscopolamine (384014)
+Propantheline (384020)
+Revefenacin (318059)
+Scopolamine (384023)
+Tiotropium (304004)
+Umeclidinium (315039)
+Glycopyrronium (318033)
+12:12 Sympathomimetic (Adrenergic) Agents
+12:12.04 alpha-Adrenergic Agonists
+Lofexidine (318020)
+Midodrine (396042)
+Phenylephrine (382252)
+cloNIDine (382243)
+Guanabenz (386003)
+Methyldopa (382242)
+12:12.08 beta-Adrenergic Agonists
+12:12.08.04 Non-selective beta-Adrenergic Agonists
+Isoproterenol (382606)
+12:12.08.08 Selective beta-1-Adrenergic Agonists
+DOBUTamine (382861)
+DOPamine (382529)
+12:12.08.12 Selective beta-2-Adrenergic Agonists
+Albuterol/Levalbuterol (382145)
+Arformoterol (307016)
+Formoterol (301023)
+Indacaterol (312016)
+Metaproterenol (382084)
+Olodaterol (315038)
+Salmeterol (395001)
+Terbutaline (382144)
+Vilanterol (315004)
+12:12.12 alpha- and beta-Adrenergic Agonists
+Droxidopa (315023)
+ePHEDrine (382253)
+EPINEPHrine (382789)
+Norepinephrine (382749)
+Pseudoephedrine (382619)
+12:16 Sympatholytic (Adrenergic Blocking) Agents
+12:16.04 alpha-Adrenergic Blocking Agents
+12:16.04.04 Non-selective alpha-Adrenergic Blocking Agents
+Dihydroergotamine Mesylate (382191)
+Ergoloid Mesylates (382097)
+Ergotamine (382096)
+Phenoxybenzamine (382059)
+Phentolamine (382251)
+12:16.04.08 Non-selective alpha-1-Adrenergic Blocking Agents
+Doxazosin (393045)
+Prazosin (382245)
+Terazosin (393046)
+12:16.04.12 Selective alpha-1-Adrenergic Blocking Agents
+Alfuzosin (303030)
+Silodosin (309015)
+Tamsulosin (398012)
+Carvedilol (397042)
+Labetalol (385034)
+12:16.08 beta-Adrenergic Blocking Agents
+12:16.08.04 Non-selective beta-Adrenergic Blocking Agents
+Carvedilol (397042)
+Labetalol (385034)
+Nadolol (382666)
+Nebivolol (308012)
+Pindolol (384032)
+Propranolol (382607)
+Sotalol (393010)
+Timolol (384029)
+12:16.08.08 Selective beta-Adrenergic Blocking Agents
+Acebutolol (387003)
+Atenolol (384031)
+Betaxolol (393047)
+Bisoprolol (393024)
+Esmolol (387013)
+Metoprolol (382864)
+12:20 Skeletal Muscle Relaxants
+12:20.04 Centrally Acting Skeletal Muscle Relaxants
+Carisoprodol (382578)
+Chlorzoxazone (382577)
+Cyclobenzaprine (382514)
+Metaxalone (382010)
+Methocarbamol (382579)
+tiZANidine (303007)
+12:20.08 Direct-acting Skeletal Muscle Relaxants
+Dantrolene (382576)
+12:20.12 GABA-derivative Skeletal Muscle Relaxants
+Baclofen (382530)
+12:20.20 Neuromuscular Blocking Agents
+Atracurium (384052)
+Cisatracurium (307021)
+Mivacurium (379119)
+Neuromuscular Blocking Agents General Pancuronium (382552)
+Rocuronium (394016)
+Succinylcholine (382554)
+Vecuronium (385026)
+12:20.92 Skeletal Muscle Relaxants, Miscellaneous
+Orphenadrine (382162)
+AbobotulinumtoxinA (315012)
+IncobotulinumtoxinA (315013)
+OnabotulinumtoxinA (305006)
+RimabotulinumtoxinB (315014)
+12:92 Autonomic Drugs, Miscellaneous
+Nicotine (384056)
+Varenicline (306019)
+16:00 Blood Derivatives
+Albumin Human (382142)
+Plasma Protein Fraction (382143)
+20:00 Blood Formation, Coagulation, and Thrombosis Agents
+20:04 Antianemia Drugs
+Darbepoetin Alfa (301064)
+Epoetin Alfa (392034)
+20:04.04 Iron Preparations
+Ferric Carboxymaltose (315011)
+Ferric Pyrophosphate Citrate (379058)
+Ferumoxytol (309018)
+Iron Dextran (382746)
+Iron Preparations, Oral (382778)
+Iron Sucrose (301048)
+Sodium Ferric Gluconate (399035)
+20:04.08 Liver and Stomach Preparations
+Vitamin B12 (382397)
+20:12 Antithrombotic Agents
+20:12.04 Anticoagulants
+20:12.04.08 Coumarin Derivatives
+Warfarin (382277)
+20:12.04.12 Direct Thrombin Inhibitors
+Argatroban (301006)
+Bivalirudin (301002)
+Dabigatran (311009)
+Desirudin (310022)
+20:12.04.14 Direct Factor Xa Inhibitors
+Apixaban (313017)
+Betrixaban (317044)
+Edoxaban Tosylate (315041)
+Rivaroxaban (312005)
+20:12.04.16 Heparins
+Dalteparin (396006)
+Enoxaparin (393016)
+Heparin (382826)
+20:12.04.92 Anticoagulants, Miscellaneous
+Antithrombin alfa (309004)
+Antithrombin III (308006)
+Fondaparinux (302012)
+Protein C (Human) (308038)
+Sodium Citrate (379158)
+20:12.14 Platelet-reducing Agents
+Anagrelide (308022)
+20:12.18 Platelet-aggregation Inhibitors
+Abciximab (395014)
+Cangrelor (315040)
+Cilostazol (301045)
+Clopidogrel (301059)
+Eptifibatide (399009)
+Prasugrel (309019)
+Ticagrelor (312030)
+Ticlopidine (395036)
+Tirofiban (399039)
+Vorapaxar (316013)
+Aspirin (382878)
+Dipyridamole (382830)
+20:12.20 Thrombolytic Agents
+Alteplase (389001)
+Reteplase (301057)
+Tenecteplase (300037)
+Aspirin (382878)
+20:12.92 Antithrombotic Agents, Miscellaneous
+Caplacizumab-yhdp (319009)
+Defibrotide Sodium (316032)
+20:16 Hematopoietic Agents
+Avatrombopag (318017)
+Darbepoetin Alfa (301064)
+Eltrombopag (309003)
+Epoetin Alfa; -epbx (392034)
+Filgrastim; -sndz, Tbo-filgrastim (392033)
+Lusutrombopag (379100)
+Methoxy Polyethylene Glycol-Epoetin Beta Oprelvekin (308005)
+Pegfilgrastim; -jmdb; -cbqv (302006)
+Plerixafor (309002)
+romiPLOStim (308030)
+Sargramostim (393005)
+20:24 Hemorrheologic Agents
+Pentoxifylline (385027)
+Dextran 40 (382066)
+20:28 Antihemorrhagic Agents
+20:28.08 Antiheparin Agents
+Protamine (382278)
+20:28.16 Hemostatics
+Aminocaproic Acid (382093)
+Antihemophilic Factor (Human) (382075)
+Antihemophilic Factor (Recombinant) (394027)
+Antihemophilic Factor (Recombinant), Fc fusion Antihemophilic Factor (Recombinant), Antihemophilic Factor (Recombinant), Antihemophilic Factor (Recombinant), Porcine Anti-inhibitor Coagulant Complex (394028)
+Coagulation Factor IX (Recombinant, Human
+Coagulation Factor X Human (316037)
+Emicizumab-kxwh (317065)
+Factor IX (Human), Factor IX Complex (Human
+Factor IX (Recombinant) (307039)
+Factor IX (Recombinant), Fc fusion protein Factor IX (Recombinant), glycoPEGylated Factor VIIa (Recombinant) (301055)
+Factor XIII (313032)
+Factor XIII A-Subunit (Recombinant) (317013)
+Fibrinogen (Human) (309020)
+Prothrombin Complex Concentrate (313036)
+Thrombin (Bovine) (382019)
+Thrombin (Human) (309007)
+Thrombin Alfa (308035)
+Tranexamic Acid (379197)
+Von Willebrand Factor (recombinant) (317006)
+Desmopressin (382876)
+20:28.92 Antihemorrhagic Agents, Miscellaneous
+Factor Xa (recombinant), inactivated-zhzo idaruCIZUmab (316040)
+20:92 Blood Formation, Coagulation, and Thrombosis Agents; Miscellaneous
+Fostamatinib (318014)
+24:00 Cardiovascular Drugs
+24:04 Cardiac Drugs
+24:04.04 Antiarrhythmic Agents
+Magnesium Sulfate (382329)
+24:04.04.04 Class Ia Antiarrhythmics
+Disopyramide (382408)
+Procainamide (382398)
+quiNIDine (382396)
+24:04.04.08 Class Ib Antiarrhythmics
+Lidocaine (382234)
+Mexiletine (303012)
+Phenytoin (382022)
+24:04.04.12 Class Ic Antiarrhythmics
+Flecainide (386009)
+Propafenone (398002)
+24:04.04.16 Class II Antiarrhythmics
+Acebutolol (387003)
+Atenolol (384031)
+Betaxolol (393047)
+Bisoprolol (393024)
+Carvedilol (397042)
+Esmolol (387013)
+Labetalol (385034)
+Metoprolol (382864)
+Pindolol (384032)
+Propranolol (382607)
+Sotalol (393010)
+Timolol (384029)
+24:04.04.20 Class III Antiarrhythmics
+Amiodarone (387009)
+Bretylium (379024)
+Dofetilide (300008)
+Dronedarone (309025)
+Ibutilide (396017)
+Sotalol (393010)
+24:04.04.24 Class IV Antiarrhythmics
+Adenosine (304010)
+dilTIAZem (384027)
+Verapamil (384030)
+24:04.04.92 Antiarrhythmics, Miscellaneous
+Cardiac Glycosides General Statement (382934)
+Digoxin (382301)
+24:04.08 Cardiotonic Agents
+Cardiac Glycosides General Statement (382934)
+Digoxin (382301)
+Milrinone (303013)
+DOBUTamine (382861)
+DOPamine (382529)
+24:04.92 Cardiac Drugs, Miscellaneous
+Ivabradine Hydrochloride (316041)
+Ranolazine (306010)
+24:06 Antilipemic Agents
+24:06.04 Bile Acid Sequestrants
+Cholestyramine (382672)
+Colesevelam (301041)
+Colestipol (382157)
+24:06.05 Cholesterol Absorption Inhibitors
+Ezetimibe (302039)
+24:06.06 Fibric Acid Derivatives
+Fenofibrate (301038)
+Gemfibrozil (386002)
+24:06.08 HMG-CoA Reductase Inhibitors
+Atorvastatin (300045)
+Fluvastatin (394010)
+HMG-CoA Reductase Inhibitors General Lovastatin (388006)
+Pitavastatin (311003)
+Pravastatin (392025)
+Rosuvastatin (303040)
+Simvastatin (392030)
+24:06.24 Proprotein Convertase Subtilisin Kexin Type 9 (PCSK9) Inhibitors
+Alirocumab (316009)
+Evolocumab (316010)
+24:06.92 Antilipemic Agents, Miscellaneous
+Icosapent Ethyl (313008)
+Lomitapide (314017)
+Mipomersen (314018)
+Niacin (382518)
+Omega-3-acid Ethyl Esters (306002)
+24:08 Hypotensive Agents
+24:08.04 alpha-Adrenergic Blocking Agents
+Labetalol (385034)
+Prazosin (382245)
+24:08.08 beta-Adrenergic Blocking Agents
+Atenolol (384031)
+Esmolol (387013)
+Labetalol (385034)
+Metoprolol (382864)
+24:08.12 Calcium-Channel Blocking Agents
+24:08.12.08 Dihydropyridines
+Clevidipine (308026)
+24:08.12.92 Calcium-Channel Blocking Agents, Miscellaneous
+dilTIAZem (384027)
+Verapamil (384030)
+24:08.16 Central alpha-Agonists
+cloNIDine (382243)
+Guanabenz (386003)
+guanFACINE (308013)
+Methyldopa (382242)
+24:08.20 Direct Vasodilators
+Fenoldopam (308018)
+hydrALAZINE (382246)
+Minoxidil (382608)
+Sodium Nitroprusside (382241)
+Diazoxide (382247)
+24:08.24 Diuretics
+24:08.24.04 Carbonic Anhydrase Inhibitors
+acetaZOLAMIDE (382756)
+24:08.24.08 Loop Diuretics
+Bumetanide (384051)
+Ethacrynic Acid (382857)
+Furosemide (382858)
+Torsemide (394018)
+24:08.24.12 Osmotic Diuretics
+Mannitol (382645)
+Urea (382842)
+24:08.24.16 Potassium-sparing Diuretics
+aMILoride (381046)
+Eplerenone (302037)
+Spironolactone (382627)
+Triamterene (382337)
+24:08.24.20 Thiazide Diuretics
+Bendroflumethiazide (382573)
+Chlorothiazide (382341)
+hydroCHLOROthiazide (382571)
+Methyclothiazide (382569)
+Polythiazide (382568)
+24:08.24.24 Thiazide-like Diuretics
+Chlorthalidone (382342)
+Indapamide (384062)
+metOLazone (382345)
+24:08.24.92 Diuretics, Miscellaneous
+Theophyllines (381006)
+24:08.32 Peripheral Adrenergic Inhibitors
+Rauwolfia Alkaloids (382881)
+24:08.44 Renin-Angiotensin-Aldosterone System Inhibitors
+24:08.44.04 Angiotensin-Converting Enzyme Inhibitors
+Benazepril (392011)
+Enalapril (386022)
+Perindopril (399017)
+24:08.44.08 Angiotensin II Receptor Antagonists
+Olmesartan (302020)
+Telmisartan (302016)
+24:08.44.20 Mineralocorticoid (Aldosterone) Receptor Antagonists
+Eplerenone (302037)
+Spironolactone (382627)
+24:08.92 Hypotensive Agents, Miscellaneous
+Acebutolol (387003)
+Betaxolol (393047)
+Captopril (382823)
+Carvedilol (397042)
+Doxazosin (393045)
+Felodipine (392016)
+Fosinopril (392020)
+Isradipine (393048)
+Lisinopril (392051)
+Moexipril (395018)
+niCARdipine (395032)
+niMODipine (389010)
+Nisoldipine (396009)
+Phenoxybenzamine (382059)
+Phentolamine (382251)
+Pindolol (384032
+Propranolol (382607)
+Ramipril (392027)
+Sotalol (393010)
+Terazosin (393046)
+Timolol (384029)
+Trandolapril (397010)
+Valsartan (397015)
+24:12 Vasodilating Agents
+24:12.08 Nitrates and Nitrites
+Amyl Nitrite (382344)
+Isosorbide (382348)
+Nitrates and Nitrites General Statement (382919)
+Nitric Oxide (301043)
+Nitroglycerin (382346)
+24:12.12 Phosphodiesterase Type 5 Inhibitors
+Avanafil (316042)
+Sildenafil (399015)
+Tadalafil (303047)
+Vardenafil (303041)
+Cilostazol (301045)
+24:12.92 Vasodilating Agents, Miscellaneous
+Alprostadil (395022)
+Dipyridamole (382830)
+Isoxsuprine (382831)
+Nesiritide (301051)
+Papaverine (382707)
+Ambrisentan (307014)
+amLODIPine (392044)
+Bosentan (301066)
+dilTIAZem (384027)
+Epoprostenol (304017)
+Iloprost (305042)
+Macitentan (314009)
+niCARdipine (395032)
+niMODipine (389010)
+Riociguat (314008)
+Selexipag (316054)
+Treprostinil (302021)
+Verapamil (384030)
+24:16 Sclerosing Agents
+Dehydrated Alcohol (318028)
+Morrhuate Sodium (382057)
+Polidocanol (313019)
+Sodium Tetradecyl Sulfate (382061)
+Talc (304001)
+24:20 alpha-Adrenergic Blocking Agents
+Doxazosin (393045)
+Prazosin (382245)
+Terazosin (393046)
+Carvedilol (397042)
+Labetalol (385034)
+24:24 beta-Adrenergic Blocking Agents
+Acebutolol (387003)
+Atenolol (384031)
+Betaxolol (393047)
+Bisoprolol (393024)
+Carvedilol (397042)
+Esmolol (387013)
+Labetalol (385034)
+Metoprolol (382864)
+Nadolol (382666)
+Nebivolol (308012)
+Pindolol (384032)
+Propranolol (382607)
+Sotalol (393010)
+Timolol (384029)
+24:28 Calcium-Channel Blocking Agents
+24:28.08 Dihydropyridines
+amLODIPine (392044)
+Clevidipine (308026)
+Felodipine (392016)
+Isradipine (393048)
+niCARdipine (395032)
+NIFEdipine (384028)
+niMODipine (389010)
+Nisoldipine (396009)
+24:28.92 Calcium-Channel Blocking Agents, Miscellaneous
+dilTIAZem (384027)
+Verapamil (384030)
+24:32 Renin-Angiotensin-Aldosterone System Inhibitors
+24:32.04 Angiotensin-Converting Enzyme Inhibitors
+Benazepril (392011)
+Captopril (382823)
+Enalapril (386022)
+Fosinopril (392020)
+Lisinopril (392051)
+Moexipril (395018)
+Perindopril (399017)
+Quinapril (392026)
+Ramipril (392027)
+Trandolapril (397010)
+24:32.08 Angiotensin II Receptor Antagonists
+Azilsartan (312003)
+Candesartan (302015)
+Eprosartan (302013)
+Irbesartan (398009)
+Losartan (395008)
+Olmesartan (302020)
+Telmisartan (302016)
+Valsartan (397015
+24:32.20 Mineralocorticoid (Aldosterone) Receptor Antagonists
+Eplerenone (302037)
+Spironolactone (382627)
+24:32.40 Renin Inhibitors
+Aliskiren (307010)
+24:32.92 Renin-Angiotensin-Aldosterone System Inhibitors, Miscellaneous
+Sacubitril and Valsartan (316043)
+26:00 Cellular and Gene Therapy
+26:04 Cellular Therapy
+Allogeneic Cultured Keratinocytes and Autologous Cultured Chondrocytes (379015)
+Azficel-T (379017)
+Hematopoietic Progenitor Cells, Cord Blood Sipuleucel-T (379155)
+26:12 Gene Therapy
+Axicabtagene Ciloleucel (379016)
+Tisagenlecleucel (379184)
+Voretigene Neparvovec-rzyl (379191)
+28:00 Central Nervous System Agents
+28:04 General Anesthetics
+28:04.04 Barbiturates
+Methohexital (382092)
+Thiamylal (379180)
+Thiobutabarbital (379181)
+28:04.16 Inhalation Anesthetics
+Desflurane (379039)
+Enflurane (379052)
+Ether (379054)
+Halothane (379077)
+Methoxyflurane (379113)
+Nitrous Oxide (379126)
+Sevoflurane (379153)
+28:04.92 General Anesthetics, Miscellaneous
+Etomidate (302038)
+Ketamine (319005)
+Propofol (302025)
+28:08 Analgesics and Antipyretics
+28:08.04 Nonsteroidal Anti-inflammatory Agents
+28:08.04.08 Cyclooxygenase-2 (COX-2) Inhibitors
+Celecoxib (399002)
+28:08.04.24 Salicylates
+Aspirin (382878)
+Choline Salicylate (379033)
+Magnesium Salicylate (379107)
+Salicylate Salts (382879)
+Salicylates General Statement (382944)
+Salsalate (382880)
+Sodium Salicylate (379162)
+Trolamine Salicylate (379187)
+28:08.04.92 Other Nonsteroidal Anti-inflammatory Agents
+Diclofenac (389002)
+Diflunisal (384037)
+Etodolac (392015)
+Fenoprofen (381026)
+Flurbiprofen (303010)
+Ibuprofen (382159)
+Indomethacin (381027)
+Ketoprofen (386014)
+Ketorolac (390001)
+Meclofenamate (382287)
+Mefenamic Acid (381028)
+Meloxicam (300047)
+Nabumetone (392022)
+Naproxen (381029)
+Oxaprozin (393002)
+Piroxicam (384045)
+Sulindac (381037)
+Tolmetin (381033)
+28:08.08 Opiate Agonists
+Benzhydrocodone (379020)
+Codeine (382065)
+fentaNYL (382519)
+HYDROcodone (381034)
+HYDROmorphone (382013)
+Levorphanol (382020)
+Meperidine (382117)
+Methadone (382134)
+Morphine (382133)
+Opiate Agonists General Statement (382906)
+Opium (382307)
+oxyCODONE (382132)
+oxyMORphone (382131)
+Remifentanil (308001)
+SUFentanil (384066)
+Tapentadol (310002)
+traMADol (395011)
+28:08.12 Opiate Partial Agonists
+Buprenorphine (387004)
+Butorphanol (382667)
+Nalbuphine (382668)
+Pentazocine (382324)
+28:08.92 Analgesics and Antipyretics, Miscellaneous
+Acetaminophen (381004)
+Salicylamide (381031)
+Sodium Thiosalicylate (381032)
+Ziconotide (305012)
+Gabapentin (394007)
+28:10 Opiate Antagonists
+Nalmefene (395009)
+Naloxone (382232)
+Naltrexone (385041)
+28:12 Anticonvulsants
+Anticonvulsants General Statement (382913)
+28:12.04 Barbiturates
+PHENobarbital (382007)
+Primidone (382023)
+Methohexital (382092)
+28:12.08 Benzodiazepines
+cloBAZam (313025)
+clonazePAM (382279)
+Benzodiazepines General Statement (382910)
+Clorazepate (382052)
+diazePAM (382047)
+LORazepam (382053)
+Midazolam (387008)
+28:12.12 Hydantoins
+Ethotoin (382328)
+Fosphenytoin (301020)
+Phenytoin (382022)
+28:12.16 Oxazolidinediones
+Ethadione (379053)
+Paramethadione (379131)
+Trimethadione (379186)
+28:12.20 Succinimides
+Ethosuximide (382327)
+Methsuximide (382028)
+28:12.92 Anticonvulsants, Miscellaneous
+Brivaracetam (316044)
+Cannabidiol (318047)
+carBAMazepine (382237)
+Eslicarbazepine (315005)
+Felbamate (393027)
+Gabapentin (394007)
+Lacosamide (310008)
+lamoTRIgine (395007)
+levETIRAcetam (300021)
+Magnesium Sulfate (382329)
+OXcarbazepine (301030)
+Perampanel (315002)
+Pregabalin (305048)
+Rufinamide (309011)
+Stiripentol (318040)
+Sultiame (379174)
+tiaGABine (398014)
+Topiramate (397012)
+Valproate/Divalproex (382412)
+Vigabatrin (310015)
+Zonisamide (301027)
+acetaZOLAMIDE (382756)
+Carbonic Anhydrase Inhibitors General Statement 
+28:16 Psychotherapeutic Agents
+28:16.04 Antidepressants
+28:16.04.12 Monoamine Oxidase Inhibitors
+Isocarboxazid (379093)
+MAO Inhibitors General Statement (382904)
+Phenelzine (382089)
+Tranylcypromine (382088)
+Rasagiline (306024)
+Selegiline (397046)
+28:16.04.16 Selective Serotonin- and Norepinephrine-reuptake Inhibitors
+Desvenlafaxine (308014)
+DULoxetine (304021)
+Levomilnacipran (314010)
+Venlafaxine (394020)
+Milnacipran (309009)
+28:16.04.20 Selective Serotonin-reuptake Inhibitors
+Citalopram (399001)
+Escitalopram (302034)
+FLUoxetine (389006)
+fluvoxaMINE (395004)
+PARoxetine (398032)
+Sertraline (397048)
+Vilazodone (311016)
+28:16.04.24 Serotonin Modulators
+Nefazodone (395005)
+traZODone (381038)
+Vilazodone (311016)
+Vortioxetine (314019)
+28:16.04.28 Tricyclics and Other Norepinephrine-reuptake Inhibitors
+Amitriptyline (382388)
+Amoxapine (382202)
+clomiPRAMINE (397002)
+Desipramine (382387)
+Doxepin (382390)
+Imipramine (382389)
+Maprotiline (382158)
+Nortriptyline (382620)
+Protriptyline (381001)
+Tricyclic Antidepressants General Statement Trimipramine (382282)
+28:16.04.92 Antidepressants, Miscellaneous
+buPROPion (395033)
+Mirtazapine (397009)
+28:16.08 Antipsychotics
+28:16.08.04 Atypical Antipsychotics
+ARIPiprazole (302040)
+ARIPiprazole w/sensor (318006)
+Asenapine (310014)
+Brexpiprazole (316045)
+Cariprazine (316046)
+cloZAPine (391001)
+Iloperidone (310007)
+Lurasidone (311013)
+OLANZapine (397011)
+Paliperidone (307003)
+Pimavanserin (316047)
+QUEtiapine (398019)
+risperiDONE (394015)
+Ziprasidone (301013)
+28:16.08.08 Butyrophenones
+Haloperidol (382180)
+28:16.08.24 Phenothiazines
+chlorproMAZINE (382040)
+fluPHENAZine (382172)
+Perphenazine (382165)
+Phenothiazines General Statement (382905)
+Prochlorperazine (382116)
+Thioridazine (382119)
+Trifluoperazine (382121)
+28:16.08.32 Thioxanthenes
+Thiothixene (382867)
+28:16.08.92 Antipsychotics, Miscellaneous
+Loxapine (382311)
+Molindone (382238)
+Pimozide (386018)
+28:16.92 Psychotherapeutic Agents, Miscellaneous
+28:20 Anorexigenic Agents and Respiratory and CNS Stimulants
+28:20.04 Amphetamines
+Amphetamine (382069)
+Amphetamines General Statement (382902)
+Benzphetamine (382070)
+Dextroamphetamine (382041)
+Lisdexamfetamine (307017)
+Methamphetamine (382184)
+28:20.08 Anorexigenic Agents
+28:20.08.04 Amphetamine Derivatives
+Diethylpropion (382037)
+Phendimetrazine (382186)
+Phentermine (382187)
+28:20.08.32 Selective Serotonin Receptor Agonists
+Lorcaserin (313035)
+28:20.08.92 Anorexigenic Agents, Miscellaneous
+Naltrexone And Bupropion (317045)
+28:20.32 Respiratory and CNS Stimulants
+Ammonia Spirit, Aromatic (382113)
+Caffeine/Caffeine and Sodium Benzoate (382194)
+Dexmethylphenidate (301068)
+Doxapram (382189)
+Methylphenidate (382188)
+Theophyllines (381006)
+28:20.80 Wakefulness-promoting Agents
+Armodafinil (310018)
+Modafinil (399047)
+28:20.92 Anorexigenic Agents and Stimulants, Miscellaneous
+28:24 Anxiolytics, Sedatives, and Hypnotics
+28:24.04 Barbiturates
+Amobarbital (382418)
+Barbiturates General Statement (382942)
+Butabarbital (382417)
+Butalbital (379025)
+PENTobarbital (382416)
+PHENobarbital (382855)
+Secobarbital (382386)
+28:24.08 Benzodiazepines
+ALPRAZolam (384001)
+Benzodiazepines General Statement (382910)
+chlordiazePOXIDE (382078)
+Clorazepate (382052)
+diazePAM (382047)
+Estazolam (391003)
+Flurazepam (382051)
+LORazepam (382053)
+Midazolam (387008)
+Oxazepam (382050)
+Quazepam (390009)
+Temazepam (384003)
+Triazolam (384004)
+cloBAZam (313025)
+clonazePAM (382279)
+28:24.92 Anxiolytics, Sedatives, and Hypnotics; Miscellaneous
+busPIRone (388005)
+Chloral Hydrate (382201
+Dexmedetomidine (300004)
+Droperidol (382179)
+Eszopiclone (305005)
+hydrOXYzine (382866)
+Meprobamate (382077)
+Promethazine (382284)
+Ramelteon (305044)
+Suvorexant (315027)
+Tasimelteon (314020)
+Zaleplon (399031)
+Zolpidem (393025)
+diphenhydrAMINE (382539)
+Doxylamine (382537)
+Propofol (302025)
+28:28 Antimanic Agents
+Lithium (381039)
+ARIPiprazole (302040)
+ARIPiprazole w/sensor (318006)
+Asenapine (310014)
+carBAMazepine (382237)
+lamoTRIgine (395007)
+OLANZapine (397011)
+QUEtiapine (398019)
+risperiDONE (394015)
+Valproate/Divalproex (382412)
+Ziprasidone (301013)
+28:32 Antimigraine Agents
+28:32.12 Calcitonin Gene-related Peptide (CGRP) Antagonists
+Erenumab-aooe (318016)
+Fremanezumab-vfrm (318046)
+Galcanezumab-gnlm (318050)
+28:32.28 Selective Serotonin Agonists
+Almotriptan (301039)
+Eletriptan (303003)
+Frovatriptan (301065)
+Naratriptan (301032)
+Rizatriptan (301033)
+SUMAtriptan (396023)
+ZOLMitriptan (303027)
+28:32.92 Antimigraine Agents, Miscellaneous
+Acetaminophen (381004)
+Butorphanol (382667)
+Caffeine/Caffeine and Sodium Benzoate (382194)
+Dihydroergotamine Mesylate (382191)
+Ergotamine (382096)
+Ketoprofen (386014)
+Opiate Agonists General Statement (382906)
+Propranolol (382607)
+Salicylates General Statement (382944)
+Timolol (384029)
+Topiramate (397012)
+Valproate/Divalproex (382412)
+28:36 Antiparkinsonian Agents
+28:36.04 Adamantanes
+Amantadine (382601)
+28:36.08 Anticholinergic Agents
+Benztropine (382155)
+Biperiden (382164)
+Procyclidine (382161)
+Trihexyphenidyl (382160)
+Orphenadrine (382162)
+28:36.12 Catechol-O-Methyltransferase (COMT) Inhibitors
+Entacapone (300013)
+Tolcapone (398036)
+28:36.16 Dopamine Precursors
+Levodopa/Carbidopa (382394)
+28:36.20 Dopamine Receptor Agonists
+28:36.20.04 Ergot-derivative Dopamine Receptor Agonists
+Bromocriptine (382079)
+Cabergoline (307020)
+28:36.20.08 Nonergot-derivative Dopamine Receptor Agonists
+Apomorphine (304022)
+Pramipexole (397029)
+rOPINIRole (398013)
+Rotigotine (314003)
+28:36.32 Monoamine Oxidase B Inhibitors
+Rasagiline (306024)
+Safinamide (317037)
+Selegiline (397046)
+28:40 Fibromyalgia Agents
+Milnacipran (309009)
+DULoxetine (304021)
+Pregabalin (305048)
+28:56 Vesicular Monoamine Transporter 2 (VMAT2) Inhibitors
+Deutetrabenazine (317029)
+Tetrabenazine (308029)
+Valbenazine (317031)
+28:92 Central Nervous System Agents, Miscellaneous
+Acamprosate (305001)
+Atomoxetine (302042)
+Dextromethorphan and quiNIDine (314001)
+Edaravone (317038)
+Flibanserin (316016)
+Flumazenil (392018)
+Memantine (303043)
+Riluzole (396013
+Sodium Oxybate (302030)
+guanFACINE (308013)
+32:00 Contraceptives (foams, devices)
+Nonoxynol-9 (379127)
+34:00 Dental Agents
+36:00 Diagnostic Agents
+36:04 Adrenocortical Insufficiency
+Cosyntropin (382557)
+36:06 Allergenic Extracts
+Histamine Phosphate (379081)
+36:08 Amyloidosis
+36:10 Appendicitis
+Technetium (379177)
+36:12 Blood Volume
+36:16 Brucellosis
+36:18 Cardiac Function
+Indocyanine Green (382740)
+Regadenoson (309005)
+36:24 Circulation Time
+36:26 Diabetes Mellitus
+36:28 Diphtheria
+36:30 Drug Hypersensitivity
+36:32 Fungi
+Coccidioidin (382107)
+Histoplasmin (382308)
+36:34 Gallbladder Function
+Sincalide (382192)
+36:36 Gastric Function
+36:38 Intestinal Absorption
+36:40 Kidney Function
+Aminohippurate (382526)
+Hexaminolevulinate (379080)
+Indigotindisulfonate (382525)
+Mannitol (382646)
+36:44 Liver Function
+Indocyanine Green (382741)
+36:46 Lymphatic System
+Isosulfan Blue (379094)
+36:48 Lymphogranuloma Venereum
+36:52 Mumps
+Mumps Skin Test Antigen (382122)
+36:56 Myasthenia Gravis
+Edrophonium (382227)
+Neostigmine (382226)
+36:58 Ocular Disorders
+Fluorescein (379064)
+Trypan Blue (379188)
+36:60 Thyroid Function
+36:61 Pancreatic Function
+Secretin (382175)
+TOLBUTamide (382481)
+36:62 Phenylketonuria
+36:64 Pheochromocytoma
+36:66 Pituitary Function
+Arginine (382240)
+Corticorelin (379034)
+Macimorelin (379101)
+metyraPONE (382239)
+36:68 Roentgenographic and Other Imaging Agents
+Barium Sulfate (379018)
+Diatrizoate Meglumine (379040)
+Diatrizoate Meglumine and Diatrizoate Sodium Diatrizoate Sodium (379042)
+Drax Exametazime (379051)
+Ethiodized Oil (379055)
+Florbetaben (379061)
+Florbetapir F18 (379062)
+Fluciclovine F18 (379063)
+Flutemetamol F18 (379065)
+Gadobenate Dimeglumine (379067)
+Gadobutrol (379068)
+Gadolinium (379069)
+Gadoterate (379070)
+Gallium Ga68 Dotatate (379071)
+Indocyanine Green (379084)
+Iodipamide Meglumine (379087)
+Iodixanol (379088)
+Iohexol (379089)
+Iopanoic Acid (379090
+Iothalamate Meglumine (379091)
+Iothalamate Sodium (379092)
+Sulfur hexafluoride lipid type A microspheres Technetium Tc99 (379178)
+Iobenguane I-131 (318029)
+36:70 Respiratory Function
+Mannitol Inhalation Powder (379111)
+36:72 Scarlet Fever
+36:76 Sweating
+36:80 Trichinosis
+36:84 Tuberculosis
+Tuberculin (381040)
+36:88 Urine and Feces Contents
+36:88.12 Ketones
+36:88.20 Occult Blood
+36:88.24 pH
+36:88.28 Protein
+36:88.40 Sugar
+38:00 Disinfectants (for agents used on objects other than skin)
+40:00 Electrolytic, Caloric, and Water Balance
+40:04 Acidifying Agents
+Ammonium Chloride (382074)
+40:08 Alkalinizing Agents
+Citrate Salts (382026)
+Sodium Bicarbonate (382001)
+Sodium Lactate (382033)
+Tromethamine (382171)
+40:10 Ammonia Detoxicants
+Acetohydroxamic Acid (384050)
+Carglumic Acid (313016)
+Glycerol Phenylbuterate (379073)
+Lactulose (382338)
+Sodium Phenylacetate and Sodium Benzoate Sodium Phenylbutyrate (305014)
+40:12 Replacement Preparations
+Calcium Salts (382764)
+Dextran 40 (382066)
+Electrolytes (382110)
+Hetastarch (382068)
+Hydroxyethyl Starch 130/0.4 (314002)
+Manganese Chloride (379110)
+Phoxillum (379137)
+Potassium Supplements (382780)
+Prismasol (379141)
+Selenious Acid (317053)
+Sodium Chloride (382111)
+40:18 Ion-removing Agents
+40:18.16 Sodium-removing Agents
+40:18.17 Calcium-removing Agents
+Cellulose Sodium Phosphate (384057)
+40:18.18 Potassium-removing Agents
+Patiromer (316048)
+Sodium Polystyrene Sulfonate (382108)
+Sodium Zirconium Cyclosilicate (318038)
+40:18.19 Phosphate-removing Agents
+Ferric Citrate (315033)
+Lanthanum (304026)
+Sevelamer (301070)
+Sucroferric Oxyhydroxide (315034)
+Calcium Salts (382764)
+40:18.92 Other Ion-removing Agents
+Prussian Blue (303028)
+40:20 Caloric Agents
+Amino Acid Injections (382781)
+Dextrose (382624)
+Fat Emulsions (388003)
+Fish Oil Triglycerides (379060)
+Invert Sugar (382623)
+40:24 Salt and Sugar Substitutes
+Acesulfame (379001)
+Aspartame (379013)
+Cyclamate (379035)
+Mogrosides (379120)
+Neotame (379124)
+Saccharin (379149)
+Sorbitol (379167)
+Stevia (379170)
+Sucralose (379172)
+Xylitol (379193)
+40:28 Diuretics
+40:28.04 Carbonic Anhydrase Inhibitors
+acetaZOLAMIDE (382756)
+Carbonic Anhydrase Inhibitors General Statement 
+40:28.08 Loop Diuretics
+Bumetanide (384051)
+Ethacrynic Acid (382857)
+Furosemide (382858)
+Torsemide (394018)
+40:28.12 Osmotic Diuretics
+Mannitol (382645)
+Urea (382842)
+40:28.16 Potassium-sparing Diuretics
+aMILoride (381046)
+Triamterene (382337)
+Eplerenone (302037)
+Spironolactone (382627)
+40:28.20 Thiazide Diuretics
+Bendroflumethiazide (382573)
+Chlorothiazide (382341)
+hydroCHLOROthiazide (382571)
+Methyclothiazide (382569)
+Polythiazide (382568)
+Thiazides General Statement (382918)
+40:28.24 Thiazide-like Diuretics
+Chlorthalidone (382342)
+Indapamide (384062)
+metOLazone (382345)
+40:28.28 Vasopressin Antagonists
+Conivaptan (306025)
+Tolvaptan (309026)
+40:28.92 Diuretics, Miscellaneous
+Theophyllines (381006)
+40:36 Irrigating Solutions
+Acetic Acid (308023)
+Dimethyl Sulfoxide (379047)
+Glycine (379074)
+Irrigating Solutions (382635)
+Peritoneal Dialysis Solutions (387001)
+Ringer's (379148)
+Sterile Water (379169)
+Mannitol (382645)
+Sodium Chloride (382111)
+40:40 Uricosuric Agents
+Lesinurad (316072)
+Probenecid (382395)
+40:92 Electrolytic, Caloric, and Water Balance Agents; Miscellaneous
+Burosumab-twza (318013)
+44:00 Enzymes
+Agalsidase Beta (303023)
+Alglucosidase Alfa (310013)
+Asfotase Alfa (316049)
+Cerliponase Alfa (317035)
+Collagenase Clostridium Histolyticum (311015)
+Elapegademase-lvlr (318053)
+Elosulfase Alfa (316008)
+Galsulfase (305039)
+Idursulfase (310011)
+Imiglucerase (304024)
+Laronidase (303024)
+Pegademase bovine (379134)
+Pegvaliase-pqpz (318018)
+Rasburicase (302031)
+Sacrosidase (301036)
+Sebelipase Alfa (316050)
+Taliglucerase Alfa (313018)
+Velaglucerase Alfa (313012)
+Vestronidase Alfa-vjbk (317066)
+Alteplase (389001)
+Asparaginase (Erwinia chrysanthemi) (312023)
+Collagenase (382674)
+Dornase Alfa (394002)
+Pancrelipase (382719)
+Pegaspargase (395031)
+Reteplase (301057)
+Tenecteplase (300037)
+48:00 Respiratory Tract Agents
+48:02 Antifibrotic Agents
+Nintedanib (315042)
+Pirfenidone (315043)
+48:04 Antihistamines
+Antihistamines General Statement (382920)
+48:04.04 First Generation Antihistamines
+Brompheniramine (382545)
+Carbinoxamine (382883)
+Chlorpheniramine (382543)
+Clemastine (382542)
+Cyproheptadine (382541)
+diphenhydrAMINE (382539)
+Doxylamine (382537)
+Triprolidine (382533)
+48:04.08 Second Generation Antihistamines
+Acrivastine (394040)
+Azelastine (397014)
+Cetirizine (398026)
+48:08 Antitussives
+Benzonatate (382640)
+Codeine (382491)
+Dextromethorphan (382492)
+HYDROcodone (382495
+diphenhydrAMINE (382539)
+48:10 Anti-inflammatory Agents
+48:10.08 Corticosteroids
+48:10.08.04 Nasal Preparations
+Beclomethasone (381047)
+Budesonide (303008)
+Flunisolide (381048)
+Fluticasone (395002)
+Mometasone (301021)
+Triamcinolone (301019)
+48:10.08.08 Orally Inhaled Preparations
+Beclomethasone (381050)
+Budesonide (303009)
+Flunisolide (385022)
+Triamcinolone (382791)
+48:10.20 Interleukin Antagonists
+Benralizumab (317063)
+Mepolizumab (316051)
+Reslizumab (316052)
+48:10.24 Leukotriene Modifiers
+Montelukast (300014)
+Zafirlukast (397007)
+Zileuton (397013)
+48:10.32 Mast-cell Stabilizers
+Cromolyn (382713)
+48:12 Bronchodilators
+48:12.04 Adrenergic Agents
+48:12.04.08 Non-selective beta-Adrenergic Agonists
+Isoproterenol (382606)
+48:12.04.12 Selective beta-2-Adrenergic Agonists
+Albuterol/Levalbuterol (382145)
+Formoterol (301023)
+Metaproterenol (382084)
+Terbutaline (382144)
+48:12.04.16 alpha- and beta-Adrenergic Agonists
+ePHEDrine (382253)
+EPINEPHrine (382789)
+Pseudoephedrine (382619)
+48:12.08 Anticholinergic Agents
+Atropine (384024)
+Ipratropium (395021)
+Tiotropium (304004)
+48:12.12 Xanthine Derivatives
+Diphylline (379048)
+Oxtriphylline (379129)
+Theophyllines (381006)
+48:14 Cystic Fibrosis Transmembrane Conductance Regulator Modulators
+48:14.04 Cystic Fibrosis Transmembrane Conductance Regulator Correctors
+Lumacaftor and Ivacaftor (316053)
+Tezacaftor and Ivacaftor (318009)
+48:14.12 Cystic Fibrosis Transmembrane Conductance Regulator Potentiators
+Ivacaftor (312031)
+48:16 Expectorants
+guaiFENesin (382494)
+Potassium Iodide (382498)
+48:24 Mucolytic Agents
+Dornase Alfa (394002)
+Acetylcysteine (382638)
+48:32 Phosphodiesterase Type 4 Inhibitors
+Roflumilast (311030)
+48:36 Pulmonary Surfactants
+Beractant (392012)
+Lucinactant (379099)
+Poractant Alfa (300050)
+48:48 Vasodilating Agents
+Ambrisentan (307014)
+Bosentan (301066)
+Epoprostenol (304017)
+Iloprost (305042)
+Macitentan (314009)
+Riociguat (314008)
+Selexipag (316054)
+Treprostinil (302021)
+Nitric Oxide (301043)
+Sildenafil (399015)
+Tadalafil (303047)
+48:92 Respiratory Tract Agents, Miscellaneous
+alpha1-Proteinase Inhibitor (304029)
+Omalizumab (303033)
+52:00 Eye, Ear, Nose, and Throat (EENT) Preparations
+52:02 Antiallergic Agents
+Alcaftadine (311014)
+Azelastine (397014)
+Bepotastine (310021)
+Cetirizine (379032)
+Cromolyn (306027)
+Emedastine (399007)
+Epinastine (304003)
+Ketotifen (399018
+Lodoxamide (394014)
+Nedocromil (301053)
+Olopatadine (399006)
+Pemirolast (301018)
+Cromolyn (382713)
+52:04 Anti-infectives
+52:04.04 Antibacterials
+Bacitracin (382294)
+Besifloxacin (309022)
+Ciprofloxacin (393022)
+Doxycycline (302018)
+Erythromycin (382044)
+Finafloxacin (379059)
+Gatifloxacin (303018)
+Gentamicin (382275)
+levoFLOXacin (301035)
+Minocycline (301044)
+Moxifloxacin (303022)
+Neomycin (382274)
+Ofloxacin (394004)
+Polymyxin B (382843)
+Sulfacetamide Sodium (382045)
+Tobramycin (381003)
+52:04.16 Antifungals
+Natamycin (382219)
+52:04.20 Antivirals
+Ganciclovir (316006)
+Trifluridine (382276)
+52:04.92 Anti-infectives, Miscellaneous
+Carbamide Peroxide (382362)
+Chlorhexidine (302009)
+Zinc Sulfate (382361)
+52:08 Anti-inflammatory Agents
+52:08.08 Corticosteroids
+Beclomethasone (381047)
+Budesonide (303008)
+Ciclesonide (308032)
+Dexamethasone (382869)
+Difluprednate (308031)
+EENT Corticosteroids General Statement Flunisolide (381048)
+Fluocinolone (305019)
+Fluorometholone (382870)
+Fluticasone (395002)
+Hydrocortisone (382871)
+Loteprednol (399008)
+Mometasone (301021)
+prednisoLONE (382873)
+Rimexolone (396035)
+Triamcinolone (301019)
+52:08.20 Nonsteroidal Anti-inflammatory Agents
+Bromfenac (305016)
+Flurbiprofen (387005)
+Ketorolac (393001)
+Nepafenac (305049)
+52:08.92 Anti-inflammatory Agents, Miscellaneous
+cycloSPORINE (303001)
+Lifitegrast (316055)
+52:12 Contact Lens Solutions
+52:16 Local Anesthetics
+Benoxinate (oxybuprocaine) (379019)
+Benzocaine (382484)
+Cocaine (382372)
+Dyclonine (382500)
+Phenol (379136)
+Proparacaine (382371)
+Tetracaine (382486)
+52:24 Mydriatics
+Atropine (382487)
+Cyclopentolate (382488)
+Dipivefrin (386005)
+EPINEPHrine (382267)
+Homatropine (382351)
+Phenylephrine (382288)
+Scopolamine (382509)
+Tropicamide (382353)
+52:28 Mouthwashes and Gargles
+Hydrogen Peroxide (382354)
+52:32 Vasoconstrictors
+EPINEPHrine (382266)
+Naphazoline (382268)
+Oxymetazoline (382562)
+Phenylephrine (382621)
+Propylhexedrine (382269)
+Tetrahydrozoline (382563)
+52:40 Antiglaucoma Agents
+52:40.04 alpha-Adrenergic Agonists
+Brimonidine (303015)
+52:40.08 beta-Adrenergic Blocking Agents
+Betaxolol (386004)
+Levobunolol (386011)
+Metipranolol (379116)
+Timolol (382043)
+52:40.12 Carbonic Anhydrase Inhibitors
+acetaZOLAMIDE (382756)
+Brinzolamide (301037)
+Carbonic Anhydrase Inhibitors General Dorzolamide (397049)
+methazolAMIDE (382754)
+Dichlorphenamide (316077)
+52:40.20 Miotics
+Acetylcholine (382406)
+Carbachol (382404)
+Miotics General Statement (382943)
+Pilocarpine (382874)
+52:40.24 Osmotic Agents
+Mannitol (382645)
+Urea (382842)
+52:40.28 Prostaglandin Analogs
+Bimatoprost (301015)
+Latanoprost (397003)
+Latanoprostene Bunod (317061)
+Tafluprost (312022)
+Travoprost (301016)
+52:40.32 Rho Kinase Inhibitors
+Netarsudil (318002)
+52:40.92 Antiglaucoma Agents, Miscellaneous
+Dipivefrin (386005)
+EPINEPHrine (382267)
+52:92 EENT Drugs, Miscellaneous
+Aflibercept (312025)
+Alcohol, Isopropyl (379002)
+Apraclonidine (388017)
+Cenegermin-bkbj (318061)
+Cysteamine (314014)
+Hydroxypropyl Cellulose (379083)
+Ocriplasmin (313006)
+Pegaptanib (305011)
+Propylene Glycol (379142)
+Ranibizumab (306023)
+Riboflavin 5'-phosphate (379146)
+Verteporfin (300012)
+Cromolyn (382713)
+Cromolyn (306027)
+Voretigene Neparvovec-rzyl (379191)
+56:00 Gastrointestinal Drugs
+56:04 Antacids and Adsorbents
+Aluminum Carbonate (379006)
+Aluminum Hydroxide (379007)
+Aluminum Phosphate (379008)
+Antacids (382762)
+Calcium Carbonate (379027)
+Charcoal, Activated (382844)
+Dihydroxyaluminum Aminoacetate (379045)
+Dihydroxyaluminum Sodium Carbonate (379046)
+Magaldrate (379102)
+Magnesium Carbonate (379103)
+Magnesium Hydroxide (379105)
+Magnesium Oxide (379106)
+Magnesium Trisilicate (379108)
+Bismuth Salts (307023)
+Sodium Bicarbonate (382001)
+56:08 Antidiarrhea Agents
+Bismuth Salts (307023)
+Crofelemer (313045)
+Diphenoxylate (382679)
+Lactobacillus Acidophilus (382681)
+Loperamide (382280)
+Opium Preparations (382680)
+Paregoric (379132)
+Telotristat (317016)
+56:10 Antiflatulents
+Simethicone (382683)
+56:12 Cathartics and Laxatives
+Anthraquinone Laxatives (382605)
+Bisacodyl (382604)
+Bulk-Forming Laxatives (382590)
+Casanthranol (382605)
+Cascara Sagrada (382605)
+Castor Oil (382595)
+Cathartics and Laxatives General Statement Dibasic Sodium Phosphate (379043)
+Docusate Calcium (379049)
+Docusate Sodium (379050)
+Frangula (382605)
+Glycerin (379072)
+Hyperosmotic Laxatives (382594)
+Magnesium Citrate (379104)
+Malt Soup Extract (379109)
+Methylcellulose (379115)
+Mineral Oil (382350)
+Monobasic Sodium Phosphate (379121)
+Polyethylene Glycol (379138)
+Potassium Bitartrate (379140)
+Psyllium Hydrophilic Mucilloid (379143)
+Saline Laxatives (382515)
+Senna (382605)
+Sennosides (382605)
+Sodium Picosulfate (379161)
+Sorbitol (379166)
+Stool Softeners (382582)
+56:14 Cholelitholytic Agents
+Chenodiol (384039)
+Ursodiol (308020)
+56:16 Digestants
+Pancrelipase (382719)
+56:20 Emetics
+56:22 Antiemetics
+56:22.08 Antihistamines
+Cyclizine (379036)
+dimenhyDRINATE (382140)
+Meclizine (382548)
+Prochlorperazine (382695)
+Trimethobenzamide (382693)
+Antihistamines General Statement (382920)
+56:22.20 5-HT3 Receptor Antagonists
+Dolasetron (301001)
+Granisetron (394011)
+Ondansetron (392023)
+Palonosetron (303038)
+56:22.32 Neurokinin-1 Receptor Antagonists
+Aprepitant/Fosaprepitant (303017)
+Netupitant/Fosnetupitant (316056)
+Rolapitant (316057)
+56:22.92 Antiemetics, Miscellaneous
+Diphenidol (382875)
+Dronabinol (306021)
+Nabilone (306022)
+Phenothiazines General Statement (382905)
+Promethazine (382284)
+Scopolamine (384023)
+56:24 Lipotropic Agents
+56:28 Antiulcer Agents and Acid Suppressants
+Amoxicillin (385001)
+Antacids (382762)
+Bismuth Salts (307023)
+Clarithromycin (392005)
+metroNIDAZOLE (382244)
+Tetracycline (382098)
+56:28.12 Histamine H2-Antagonists
+Cimetidine (382256)
+Famotidine (387011)
+Nizatidine (394030)
+raNITIdine (384046)
+56:28.28 Prostaglandins
+miSOPROStol (389009)
+56:28.32 Protectants
+Sucralfate (381049)
+56:28.36 Proton-pump Inhibitors
+Dexlansoprazole (309012)
+Esomeprazole (301031)
+Lansoprazole (395020)
+Omeprazole (393050)
+Pantoprazole (300049)
+RABEprazole (399033)
+56:28.92 Antiulcer Agents and Acid Suppressants, Miscellaneous
+Helidac (bismuth, metronidazole, tetracycline)
+Pylera (bismuth, metronidazole, tetracycline)
+56:32 Prokinetic Agents
+Cisapride (394006)
+Metoclopramide (384035)
+Prucalopride (319001)
+56:36 Anti-inflammatory Agents
+Alosetron (300011)
+Balsalazide (301025)
+Mesalamine (388021)
+Olsalazine (304018)
+sulfaSALAzine (382204)
+56:92 GI Drugs, Miscellaneous
+Alvimopan (308028)
+Cholic Acid (316058)
+Eluxadoline (316004)
+Linaclotide (314006)
+Lubiprostone (306008)
+Methylnaltrexone (308033)
+Naldemedine (317027)
+Naloxegol (316002)
+Obeticholic Acid (316059)
+Orlistat (399010)
+Plecanatide (317011)
+Teduglutide (313026)
+Tegaserod (302032)
+Vedolizumab (315017)
+Adalimumab; -adaz (302046)
+Certolizumab (308034)
+Golimumab (309028)
+inFLIXimab, -abda, -dyyb, -qbtx (301005)
+Octreotide (393049)
+60:00 Gold Compounds
+Auranofin (385038)
+Aurothioglucose/Gold Sodium Thiomalate 
+64:00 Heavy Metal Antagonists
+Deferasirox (307028)
+Deferiprone (312018)
+Deferoxamine (382254)
+Dimercaprol (382859)
+Edetate Calcium Disodium (382249)
+penicillAMINE (382290)
+Succimer (392031)
+Trientine (317042)
+68:00 Hormones and Synthetic Substitutes
+68:04 Adrenals
+Beclomethasone (381050)
+Betamethasone (382799)
+Budesonide (303009)
+Ciclesonide (308040)
+Corticosteroids General Statement (382921)
+Cortisone Acetate (382800)
+Deflazacort (317009)
+Dexamethasone (382792)
+Fludrocortisone (382549)
+Flunisolide (385022)
+Fluticasone (301028)
+Hydrocortisone (382793)
+methylPREDNISolone (382795)
+Mometasone (305045)
+Prasterone (317041)
+prednisoLONE (382794)
+predniSONE (382796)
+Triamcinolone (382791)
+68:08 Androgens
+Danazol (382599)
+Fluoxymesterone (382690)
+methylTESTOSTERone (382689)
+Nandrolone (379123)
+Oxandrolone (308011)
+Oxymetholone (379130)
+Testosterone (382684)
+68:12 Contraceptives
+Estrogen-Progestin Combinations (382675)
+Levonorgestrel (379097)
+Progestins (382556)
+Ulipristal (310026)
+medroxyPROGESTERone (382470)
+68:16 Estrogens and Estrogen Agonists-Antagonists
+68:16.04 Estrogens
+Estradiol (382453)
+Estrogens General Statement (382922)
+Estrogens, Conjugated (382457)
+Estrogens, Esterified (382452)
+Estrogen-Progestin Combinations (382675)
+68:16.08 Antiestrogens
+Anastrozole (396018)
+Exemestane (399038)
+Letrozole (398004)
+68:16.12 Estrogen Agonists-Antagonists
+Bazedoxifene (315045)
+clomiPHENE (382704)
+Ospemifene (314005)
+Raloxifene (398007)
+Tamoxifen (382414)
+Toremifene (398005)
+68:18 Gonadotropins and Antigonadotropins
+68:18.04 Antigonadotropins
+Cetrorelix (301029)
+Degarelix (309017)
+Elagolix (318027)
+Ganirelix (399024)
+68:18.08 Gonadotropins
+Choriogonadotropin Alfa (301054)
+Gonadotropin, Chorionic (382459)
+Goserelin (302008)
+Histrelin (304025)
+Leuprolide (385040)
+Lutropin Alfa (304027)
+Nafarelin (302011)
+Triptorelin (300033)
+68:20 Antidiabetic Agents
+68:20.02 alpha-Glucosidase Inhibitors
+Acarbose (396015)
+Miglitol (307002)
+68:20.03 Amylinomimetics
+Pramlintide (305022)
+68:20.04 Biguanides
+metFORMIN (396005)
+68:20.05 Dipeptidyl Peptidase-4 (DPP-4) Inhibitors
+Alogliptin (313043)
+Linagliptin (312009)
+sAXagliptin (311005)
+SITagliptin (307001)
+Vildagliptin (379190)
+68:20.06 Incretin Mimetics
+Albiglutide (314021)
+Dulaglutide (315021)
+Exenatide (305021)
+Liraglutide (311002)
+Lixisenatide (316060)
+Semaglutide (317067)
+68:20.08 Insulins
+Insulins General Statement (382933)
+68:20.08.04 Rapid-acting Insulins
+Insulin Aspart (300048)
+Insulin Glulisine (306009)
+Insulin Lispro (397021)
+68:20.08.08 Short-acting Insulins
+Insulin Human (384041)
+68:20.08.12 Intermediate-acting Insulins
+Insulin Aspart Protamine (379085)
+Insulin Human, Isophane (384041)
+Insulin Lispro Protamine (379086
+Insulin Zinc (382612)
+68:20.08.16 Long-acting Insulins
+Insulin Degludec (316061)
+Insulin Detemir (306011)
+Insulin Glargine (300027)
+68:20.16 Meglitinides
+Nateglinide (301007)
+Repaglinide (300010)
+68:20.17 Sodium-glucose Cotransporter 1 (SGLT1) Inhibitors
+68:20.18 Sodium-glucose Cotransporter 2 (SGLT2) Inhibitors
+Canagliflozin (313046)
+Dapagliflozin (314022)
+Empagliflozin (315046)
+Ertugliflozin (318004)
+68:20.20 Sulfonylureas
+chlorproPAMIDE (382479)
+Glimepiride (396016)
+glipiZIDE (384060)
+glyBURIDE (384058)
+TOLAZamide (382482)
+TOLBUTamide (382481)
+68:20.28 Thiazolidinediones
+Pioglitazone (399016)
+Rosiglitazone (399023)
+68:20.92 Antidiabetic Agents, Miscellaneous
+Bromocriptine (382079)
+Colesevelam (301041)
+68:22 Antihypoglycemic Agents
+68:22.12 Glycogenolytic Agents
+Glucagon (382480)
+68:22.92 Antihypoglycemic Agents, Miscellaneous
+Diazoxide (382247)
+68:24 Parathyroid and Antiparathyroid Agents
+68:24.04 Antiparathyroid Agents
+Calcitonin (382788)
+Cinacalcet (304009)
+Etelcalcetide (317026)
+68:24.08 Parathyroid Agents
+Abaloparatide (317036)
+Parathyroid Hormone (315047)
+Teriparatide (302043)
+68:28 Pituitary
+Corticotropin (382743)
+Desmopressin (382876)
+Omnitrope (379128)
+Somatropin (379165)
+Vasopressin (382596)
+68:29 Somatostatin Agonists and Antagonists
+68:29.04 Somatostatin Agonists
+Lanreotide (308003)
+Octreotide (393049)
+Pasireotide (313029)
+68:29.08 Somatostatin Antagonists
+68:30 Somatotropin Agonists and Antagonists
+68:30.04 Somatotropin Agonists
+Mecasermin (306004)
+Tesamorelin (311008)
+68:30.08 Somatotropin Antagonists
+Pegvisomant (303016)
+68:32 Progestins
+HYDROXYprogesterone (382467)
+medroxyPROGESTERone (382470)
+Megestrol (382003)
+Norethindrone (382473)
+Progesterone (382472)
+Progestins General Statement (382923)
+Estrogen-Progestin Combinations (382675)
+Megestrol (382003)
+Progestins (382556)
+68:34 Other Corpus Luteum Hormones
+68:36 Thyroid and Antithyroid Agents
+68:36.04 Thyroid Agents
+Levothyroxine (382461)
+Liothyronine (382462)
+Liotrix (382463)
+Thyroid (382475)
+Thyroid Agents General Statement (382924)
+68:36.08 Antithyroid Agents
+methIMAzole (382464)
+Potassium Iodide (382498)
+Propylthiouracil (382465)
+68:40 Leptins
+Metreleptin (316062)
+68:44 Renin-Angiotensin-Aldosterone System (RAAS)
+Angiotensin II (318007)
+72:00 Local Anesthetics
+Articaine (301010)
+Bupivacaine (382703)
+Chloroprocaine (382699)
+Lidocaine (382701)
+Local Anesthetics, Parenteral, General Mepivacaine (382702)
+Prilocaine (382697)
+Ropivacaine (319004)
+Tetracaine (382642)
+76:00 Oxytocics
+Carboprost (307030)
+Dinoprostone (382512)
+Ergonovine/Methylergonovine (382633)
+miFEPRIStone (300042)
+Oxytocin (382685)
+Sodium Chloride 20% Injection (382649)
+Urea 40-50% Injection (382513)
+78:00 Radioactive Agents
+Radium Ra-223 Dichloride (379145)
+Samarium Sm-153 Lexidronum (379150)
+Sodium Iodide I-131 (379160)
+Strontium Sr-89 Chloride (379171)
+Yttrium-90 Ibritumomab tiuxetan (379194)
+Iobenguane I-131 (318029)
+Lutetium Lu-177 Dotatate (318008)
+80:00 Antitoxins, Immune Globulins, Toxoids, and Vaccines
+80:02 Allergenic Extracts
+Grass Pollen Allergen Extract (Grastek) (379075)
+House Dust Mites Allergen Extract (Odactra) 
+Short Ragweed Pollen Allergen Extract
+80:04 Antitoxins and Immune Globulins
+Anthrax Immune Globulin IV (Human) (317015)
+Antivenin (Latrodectus mactans) (Equine) Antivenin (Micrurus fulvius) (Equine) (386017)
+Bezlotoxumab (316082)
+Botulism Antitoxin (Equine) (315015)
+Botulism Equine Trivalent Antitoxin (379023)
+Botulism Immune Globulin IV (303046)
+Centruroides Immune F(ab')2 (312006)
+Crotalidae Polyvalent Immune Fab (302023)
+Cytomegalovirus Immune Globulin IV (397030)
+Digoxin Immune Fab (386020)
+Diphtheria Antitoxin (382808)
+Hepatitis B Immune Globulin (381051)
+Immune Globulin (382815)
+Obiltoxaximab (316064)
+Rabies Immune Globulin (381041)
+Raxibacumab (316019)
+Rho(D) Immune Globulin (382806)
+Smallpox Immune Globulin (379156)
+Tetanus Immune Globulin (382804)
+Vaccinia Immune Globulin IV (305009)
+Varicella Zoster Immune Globulin (384038)
+80:08 Toxoids
+Botulinum Toxoid (379022)
+Diphtheria and Tetanus Toxoids (382199)
+Diphtheria and Tetanus Toxoids and Acellular
+80:12 Vaccines
+Adenovirus Vaccine Live Oral (315016)
+Anthrax Vaccine Adsorbed (301062)
+BCG Vaccine (382809)
+Cholera Vaccine Live Oral (317010)
+Haemophilus b Vaccine (386010)
+Hepatitis A Virus Vaccine Inactivated (395003)
+Hepatitis B Vaccine Recombinant (381052)
+Human Papillomavirus Vaccine (306016)
+Influenza Vaccine Live Intranasal (303031)
+Influenza Vaccine Recombinant (313010)
+Influenza Virus Vaccine Inactivated (395026)
+Japanese Encephalitis Vaccine (393014)
+Measles Virus Vaccine Live (382559)
+Meningococcal Group B Vaccine (317007)
+Meningococcal Groups A, C, Y, and W-135 Mumps Virus Vaccine Live (382561)
+Pneumococcal Vaccine (382657)
+Poliovirus Vaccine Inactivated (395016)
+Rabies Vaccine (381042)
+Rotavirus Vaccine Live Oral (306006)
+Rubella Virus Vaccine Live (382560)
+Typhoid Vaccine (382812)
+Vaccinia Vaccine (379189)
+Varicella Virus Vaccine Live (397005)
+Yellow Fever Vaccine (382813)
+Zoster Vaccine Live (306028)
+Zoster Vaccine Recombinant (317060)
+84:00 Skin and Mucous Membrane Agents
+84:04 Anti-infectives
+84:04.04 Antibacterials
+Bacitracin (382293)
+Clindamycin (382382)
+Erythromycin (382381)
+Gentamicin (382669)
+metroNIDAZOLE (389011)
+Mupirocin (388004)
+Neomycin (382670)
+Ozenoxacin (318005
+Retapamulin (307012)
+Tetracyclines (382383)
+Dapsone (310012)
+Polymyxin B (382314)
+84:04.06 Antivirals
+Acyclovir (381036)
+Docosanol (301056)
+Penciclovir (397027)
+84:04.08 Antifungals
+84:04.08.04 Allylamines
+Naftifine (388020)
+Terbinafine (393026)
+84:04.08.08 Azoles
+Butoconazole (386012)
+Clotrimazole (382753)
+Econazole (384049)
+Efinaconazole (314025)
+Ketoconazole (386019)
+Luliconazole (314024)
+Miconazole (382616)
+Oxiconazole (389004)
+Sertaconazole (305002)
+Sulconazole (398018)
+Terconazole (388022)
+Tioconazole (398017)
+84:04.08.12 Benzylamines
+Butenafine (397019)
+84:04.08.16 Echinocandins
+84:04.08.20 Hydroxypyridones
+Ciclopirox (384047)
+84:04.08.24 Oxaboroles
+Tavaborole (314026)
+84:04.08.28 Polyenes
+Nystatin (382758)
+84:04.08.32 Pyrimidines
+84:04.08.40 Thiocarbamates
+Tolnaftate (382617)
+84:04.08.92 Antifungals, Miscellaneous
+Carbol-Fuchsin (382508)
+Gentian Violet (382656)
+Sodium Thiosulfate (382504)
+Undecylenic Acid (382511)
+84:04.12 Scabicides and Pediculicides
+Benzyl Alcohol (311001)
+Benzyl Benzoate (382655)
+Crotamiton (382833)
+Ivermectin (313021)
+Lindane (382651)
+Malathion (384040)
+Permethrin (398037)
+Pyrethrins with Piperonyl Butoxide (382528)
+Spinosad (311033)
+Sulfur (382726)
+84:04.92 Local Anti-infectives, Miscellaneous
+Alcohol, Isopropyl (379003)
+Benzalkonium (382506)
+Boric Acid (382360)
+Chlorhexidine (302010)
+Hexachlorophene (382369)
+Iodine (382368)
+Iodoquinol (382370)
+Mafenide (382263)
+Selenium Sulfide (382258)
+Silver Sulfadiazine (382598)
+Sodium Hypochlorite (379159)
+84:06 Anti-inflammatory Agents
+84:06.08 Corticosteroids
+Alclometasone (387002)
+Amcinonide (382745)
+Betamethasone (382270)
+Clobetasol (386008)
+Clocortolone (385023)
+Desonide (382207)
+Desoximetasone (382208)
+Diflorasone (382210)
+Fluocinolone (382271)
+Flurandrenolide (382214)
+Halcinonide (382272)
+Halobetasol (379076)
+Hydrocortisone (382206)
+Mometasone (387014)
+Prednicarbate (394036)
+Topical Corticosteroids General Statement Triamcinolone (382205)
+84:06.20 Nonsteroidal Anti-inflammatory Agents
+Diclofenac (301009)
+84:06.92 Anti-inflammatory Agents, Miscellaneous
+Crisaborole (317004)
+84:08 Antipruritics and Local Anesthetics
+Benzocaine (382424)
+Dibucaine (382421)
+Doxepin (394009)
+Ethyl Chloride (382425)
+Phenazopyridine (382231)
+Pramoxine (382429)
+diphenhydrAMINE (382539)
+84:12 Astringents
+Aluminum Acetate (308010)
+Aluminum Chloride (307024)
+84:16 Cell Stimulants and Proliferants
+Becaplermin (317040)
+Palifermin (305010)
+Tretinoin (382437)
+84:20 Detergents
+Green Soap (382444)
+84:24 Emollients, Demulcents, and Protectants
+Vitamins A and D (382435)
+84:24.04 Basic Lotions and Liniments
+Lactic Acid (379096)
+84:24.08 Basic Oils and Other Solvents
+84:24.12 Basic Ointments and Protectants
+Mineral Oil, Light (379118)
+Petrolatum (379135)
+84:24.16 Basic Powders and Demulcents
+84:28 Keratolytic Agents
+Allantoin (379004)
+Ammonium Lactate (379010)
+Salicylic Acid (382723)
+Sulfur (382726)
+Urea (382436)
+84:32 Keratoplastic Agents
+Coal Tar (384034)
+Zinc Pyrithione (379195)
+84:50 Depigmenting and Pigmenting Agents
+84:50.04 Depigmenting Agents
+Hydroquinone (382379)
+Mequinol/Tretinoin (303021)
+Monobenzone (382378)
+84:50.06 Pigmenting Agents
+Dihydroxyacetone (382377)
+Methoxsalen (382384)
+84:80 Sunscreen Agents
+Sunscreens (382787)
+84:92 Skin and Mucous Membrane Agents, Miscellaneous
+Acitretin (307034)
+Adapalene (398020)
+Alefacept (303006)
+Alitretinoin (301047)
+Aminolevulinic Acid (300001)
+Azelaic Acid (396002)
+Bexarotene (300040)
+Brimonidine (315044)
+Brodalumab (317014)
+Calcipotriene (394008)
+Collagenase (382674)
+Dapsone (310012)
+Dextranomer (382877)
+Doxycycline (306017)
+Dupilumab (317025)
+Eflornithine (301026)
+Fibrin Sealant (308036)
+Finasteride (398016)
+Fluorouracil (382708)
+Glycopyrronium (318033)
+Guselkumab (317046)
+Hydrogen Peroxide (318003)
+Imiquimod (398010)
+Ingenol Mebutate (313013)
+ISOtretinoin (381043)
+Ixekizumab (316069)
+Mechlorethamine (315006)
+Methyl Aminolevulinate (379114)
+Minoxidil (389003)
+Nitroglycerin (314023)
+Oxymetazoline (317008)
+Pimecrolimus (302003)
+Podofilox (398011)
+Podophyllum Resin (382448)
+Secukinumab (315024)
+Sinecatechins (308037)
+Tacrolimus (301040)
+Tazarotene (397031)
+Tildrakizumab-asmn (318030)
+Ustekinumab (311010)
+Apremilast (315003)
+inFLIXimab, -abda, -dyyb, -qbtx (301005)
+86:00 Smooth Muscle Relaxants
+86:08 Gastrointestinal Smooth Muscle Relaxants
+86:12 Genitourinary Smooth Muscle Relaxants
+86:12.04 Antimuscarinics
+Darifenacin (305008)
+Fesoterodine (309006)
+flavoxATE (382706)
+Oxybutynin (382141)
+Solifenacin (305007)
+Tolterodine (399026)
+Trospium (304019)
+86:12.08 beta-3 Adrenergic Agonists
+86:12.08.12 Selective beta-3 Adrenergic Agonists
+Mirabegron (313011)
+86:16 Respiratory Smooth Muscle Relaxants
+Theophyllines (381006)
+Sildenafil (399015)
+88:00 Vitamins
+88:04 Vitamin A
+Beta Carotene (382615)
+Vitamin A (382592)
+88:08 Vitamin B Complex
+Folic Acid (382591)
+Niacin/Niacinamide (382588)
+Pantothenic Acid (382589)
+Pyridoxine (382587)
+Riboflavin (382585)
+Thiamine (382586)
+Vitamin B12 (382397)
+Leucovorin (382336)
+88:12 Vitamin C
+Ascorbic Acid (382583)
+88:16 Vitamin D
+Calcifediol (317005)
+Calcitriol (382335)
+Dihydrotachysterol (382334)
+Doxercalciferol (399027)
+Ergocalciferol (382333)
+Paricalcitol (301071)
+Vitamin D Analogs General Statement (382927)
+88:20 Vitamin E
+Vitamin E (382584)
+88:24 Vitamin K Activity
+Phytonadione (382659)
+88:28 Multivitamin Preparations
+Multivitamins (382882)
+92:00 Miscellaneous Therapeutic Agents
+92:04 Alcohol Deterrents
+Disulfiram (382602)
+Naltrexone (385041)
+92:08 5-alpha-Reductase Inhibitors
+Dutasteride (302002)
+Finasteride (392036)
+Finasteride (398016)
+92:12 Antidotes
+Acetylcysteine (382638)
+Fomepizole (398015)
+Glucarpidase (312015)
+Leucovorin (382336)
+LEVOleucovorin (308025)
+Methylene Blue (382747)
+Pralidoxime (382517)
+Sugammadex (316070)
+Uridine Triacetate (317028)
+Amyl Nitrite (382344)
+Antivenin (Latrodectus mactans) (Equine) (382759)
+Antivenin (Micrurus fulvius) (Equine) (386017)
+Atropine (384024)
+Benzodiazepines General Statement (382910)
+Calcium Salts (382764)
+Cellulose Sodium Phosphate (384057)
+Centruroides Immune F(ab')2 (312006)
+Crotalidae Polyvalent Immune Fab (302023)
+Deferoxamine (382254)
+Digoxin Immune Fab (386020)
+Dimercaprol (382859)
+Edetate Calcium Disodium (382249)
+Flumazenil (392018)
+Glucagon (382480)
+Lanthanum (304026)
+Magnesium Sulfate (382329)
+Naloxone (382232)
+Physostigmine (382083)
+Phytonadione (382659)
+Potassium Iodide (382498)
+Protamine (382278)
+Prussian Blue (303028)
+Sevelamer (301070)
+Sodium Polystyrene Sulfonate (382108)
+Succimer (392031)
+92:16 Antigout Agents
+Allopurinol (382673)
+Colchicine (382711)
+Febuxostat (309010)
+Pegloticase (311011)
+Indomethacin (381027)
+Lesinurad (316072)
+Naproxen (381029)
+Probenecid (382395)
+92:18 Antisense Oligonucleotides
+Eteplirsen (316080)
+Inotersen (318055)
+Nusinersen (317002)
+92:20 Immunomodulatory Agents
+Alemtuzumab (315048)
+Daclizumab (316073)
+Dimethyl Fumarate (313048)
+Fingolimod (311004)
+Glatiramer (305047)
+Interferon Beta (393040)
+Interferon Gamma (303020)
+Natalizumab (304030)
+Ocrelizumab (317024
+Peginterferon Beta-1a (315049)
+Teriflunomide (313047)
+Thalidomide (399032)
+Abatacept (306003)
+Adalimumab; -adaz (302046)
+Aldesleukin (392009)
+Alemtuzumab (301034)
+Anakinra (301072)
+Antineoplastic Agents General Statement (382941)
+Apremilast (315003)
+Auranofin (385038)
+Aurothioglucose/Gold Sodium Thiomalate (382773)
+azaTHIOprine (382167)
+Certolizumab (308034)
+cycloSPORINE (384054)
+Etanercept, Etanercept-szzs (300031)
+Golimumab (309028)
+Hydroxychloroquine (382319)
+inFLIXimab, -abda, -dyyb, -qbtx (301005)
+Interferon Alfa (390006)
+Leflunomide (300032)
+Lenalidomide (306005)
+Methotrexate (382018)
+Pomalidomide (313042)
+sulfaSALAzine (382204)
+Tocilizumab (310009)
+Tofacitinib (313024)
+Ustekinumab (311010)
+92:24 Bone Resorption Inhibitors
+Alendronate (395025)
+Denosumab (310025)
+Etidronate (382581)
+Gallium Nitrate (392021)
+Ibandronate (305018)
+Pamidronate (392024)
+Risedronate (301004)
+Tiludronate (379182)
+Zoledronic Acid (301052)
+Calcitonin (382788)
+Estradiol (382453)
+Estrogens General Statement (382922)
+Estrogens, Conjugated (382457)
+Estrogens, Esterified (382452)
+Raloxifene (398007)
+92:26 Carbonic Anhydrase Inhibitors
+Dichlorphenamide (316077)
+92:28 Cariostatic Agents
+Fluorides (382727)
+92:32 Complement Inhibitors
+C1-Esterase Inhibitor (Human) (309014)
+C1-Esterase Inhibitor (Recombinant) (315050)
+Ecallantide (311006)
+Eculizumab (307019)
+Icatibant (312007)
+Lanadelumab-flyo (318042)
+Ravulizumab-cwvz (319002)
+92:36 Disease-modifying Antirheumatic Drugs
+Abatacept (306003)
+Adalimumab; -adaz (302046)
+Anakinra (301072)
+Apremilast (315003)
+Baricitinib (318019)
+Certolizumab (308034)
+Etanercept, Etanercept-szzs (300031)
+Golimumab (309028)
+inFLIXimab, -abda, -dyyb, -qbtx (301005)
+Leflunomide (300032)
+Sarilumab (317039)
+Tocilizumab (310009)
+Tofacitinib (313024)
+Auranofin (385038)
+Aurothioglucose/Gold Sodium Thiomalate (382773)
+azaTHIOprine (382167)
+Corticosteroids General Statement (382921)
+cycloSPORINE (384054)
+Hydroxychloroquine (382319)
+Methotrexate (382018)
+penicillAMINE (382290)
+riTUXimab (398003)
+sulfaSALAzine (382204)
+Ustekinumab (311010)
+92:44 Immunosuppressive Agents
+Antithymocyte Globulin (Equine) (385025)
+Antithymocyte Globulin (Rabbit) (301042)
+azaTHIOprine (382167)
+Basiliximab (301050)
+Belatacept (312008)
+Belimumab (311017)
+cycloSPORINE (384054)
+Emapalumab-lzsg (318062)
+Mycophenolate (303011)
+Sirolimus (300009)
+Tacrolimus (395035)
+Alefacept (303006)
+Corticosteroids General Statement (382921)
+Cyclophosphamide (382080)
+Everolimus (309008)
+Mercaptopurine (382653)
+Methotrexate (382018)
+Pimecrolimus (302003)
+Tacrolimus (301040)
+92:56 Protective Agents
+Amifostine (396014)
+Dexrazoxane (396004)
+Mesna (395034)
+Pentosan (308008)
+92:92 Other Miscellaneous Therapeutic Agents
+AbobotulinumtoxinA (315012)
+Amifampridine (319003)
+Betaine (397016)
+Canakinumab (311026)
+Cobicistat (316074)
+Dalfampridine (310016)
+Deoxycholic Acid (316076)
+Eliglustat (316078)
+IncobotulinumtoxinA (315013)
+L-Glutamine (317047)
+Liver Extract (379098)
+metyroSINE (382748)
+Migalastat (318036)
+Miglustat (303039)
+Nitisinone (302005)
+OnabotulinumtoxinA (305006)
+Patisiran (318031)
+PrabotulinumtoxinA-xvfs (379196)
+Rilonacept (308039)
+RimabotulinumtoxinB (315014)
+Sapropterin (308004)
+Tiopronin (379183)
+Uridine Triacetate (317028)
+96:00 Pharmaceutical Aids
+Mineral Oil (379117)
+Polyacrylic Acid (379028)

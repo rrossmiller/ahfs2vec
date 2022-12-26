@@ -1,0 +1,98 @@
+24:24 beta-Adrenergic Blocking Agents
+Acebutolol (387003)
+Atenolol (384031)
+Betaxolol (393047)
+Bisoprolol (393024)
+Carvedilol (397042)
+Esmolol (387013)
+Labetalol (385034)
+Metoprolol (382864)
+Nadolol (382666)
+Nebivolol (308012)
+Pindolol (384032)
+Propranolol (382607)
+Sotalol (393010)
+Timolol (384029)
+24:28 Calcium-Channel Blocking Agents
+ ()
+24:28.08 Dihydropyridines
+amLODIPine (392044)
+Clevidipine (308026)
+Felodipine (392016)
+Isradipine (393048)
+niCARdipine (395032)
+NIFEdipine (384028)
+niMODipine (389010)
+Nisoldipine (396009)
+24:28.92 Calcium-Channel Blocking Agents, 
+Miscellaneous
+dilTIAZem (384027)
+Verapamil (384030)
+24:32 Renin-Angiotensin-Aldosterone System 
+Inhibitors
+ ()
+24:32.04 Angiotensin-Converting Enzyme Inhibitors
+Benazepril (392011)
+Captopril (382823)
+Enalapril (386022)
+Fosinopril (392020)
+Lisinopril (392051)
+Moexipril (395018)
+Perindopril (399017)
+Quinapril (392026)
+Ramipril (392027)
+Trandolapril (397010)
+24:32.08 Angiotensin II Receptor Antagonists
+Azilsartan (312003)
+Candesartan (302015)
+Eprosartan (302013)
+Irbesartan (398009)
+Losartan (395008)
+Olmesartan (302020)
+Telmisartan (302016)Valsartan (397015)
+24:32.20 Mineralocorticoid (Aldosterone) Receptor 
+Antagonists
+Eplerenone (302037)
+Spironolactone (382627)
+24:32.40 Renin Inhibitors
+Aliskiren (307010)
+24:32.92 Renin-Angiotensin-Aldosterone System 
+Inhibitors, Miscellaneous
+Sacubitril and Valsartan (316043)
+26:00 Cellular and Gene Therapy
+ ()
+26:04 Cellular Therapy
+Allogeneic Cultured Keratinocytes and 
+Autologous Cultured Chondrocytes (379015)
+Azficel-T (379017)
+Hematopoietic Progenitor Cells, Cord Blood 
+Sipuleucel-T (379155)
+26:12 Gene Therapy
+Axicabtagene Ciloleucel (379016)
+Tisagenlecleucel (379184)
+Voretigene Neparvovec-rzyl (379191)
+28:00 Central Nervous System Agents
+ ()
+28:04 General Anesthetics
+ ()
+28:04.04 Barbiturates
+Methohexital (382092)
+Thiamylal (379180)
+Thiobutabarbital (379181)
+28:04.16 Inhalation Anesthetics
+Desflurane (379039)
+Enflurane (379052)
+Ether (379054)
+Halothane (379077)
+Methoxyflurane (379113)
+Nitrous Oxide (379126)
+Sevoflurane (379153)
+28:04.92 General Anesthetics, Miscellaneous
+Etomidate (302038)
+Ketamine (319005)
+Propofol (302025)
+28:08 Analgesics and Antipyretics
+ ()
+28:08.04 Nonsteroidal Anti-inflammatory Agents
+ ()
+© 2019, American Society of Health-System Pharmacists, Inc. Page 12 of 31

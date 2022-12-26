@@ -1,0 +1,94 @@
+Mannitol (382646)
+36:44 Liver Function
+Indocyanine Green (382741)
+36:46 Lymphatic System
+Isosulfan Blue (379094)
+36:48 Lymphogranuloma Venereum
+ ()
+36:52 Mumps
+Mumps Skin Test Antigen (382122)
+36:56 Myasthenia Gravis
+Edrophonium (382227)
+Neostigmine (382226)
+36:58 Ocular Disorders
+Fluorescein (379064)
+Trypan Blue (379188)
+36:60 Thyroid Function
+ ()
+36:61 Pancreatic Function
+Secretin (382175)
+TOLBUTamide (382481)
+36:62 Phenylketonuria
+ ()
+36:64 Pheochromocytoma
+ ()
+36:66 Pituitary Function
+Arginine (382240)
+Corticorelin (379034)
+Macimorelin (379101)
+metyraPONE (382239)
+36:68 Roentgenographic and Other Imaging Agents
+Barium Sulfate (379018)
+Diatrizoate Meglumine (379040)
+Diatrizoate Meglumine and Diatrizoate Sodium 
+Diatrizoate Sodium (379042)
+Drax Exametazime (379051)
+Ethiodized Oil (379055)
+Florbetaben (379061)
+Florbetapir F18 (379062)
+Fluciclovine F18 (379063)
+Flutemetamol F18 (379065)
+Gadobenate Dimeglumine (379067)
+Gadobutrol (379068)
+Gadolinium (379069)
+Gadoterate (379070)
+Gallium Ga68 Dotatate (379071)
+Indocyanine Green (379084)
+Iodipamide Meglumine (379087)
+Iodixanol (379088)
+Iohexol (379089)Iopanoic Acid (379090)
+Iothalamate Meglumine (379091)
+Iothalamate Sodium (379092)
+Sulfur hexafluoride lipid type A microspheres 
+Technetium Tc99 (379178)
+Iobenguane I-131 (318029)
+36:70 Respiratory Function
+Mannitol Inhalation Powder (379111)
+36:72 Scarlet Fever
+ ()
+36:76 Sweating
+ ()
+36:80 Trichinosis
+ ()
+36:84 Tuberculosis
+Tuberculin (381040)
+36:88 Urine and Feces Contents
+ ()
+36:88.12 Ketones
+ ()
+36:88.20 Occult Blood
+ ()
+36:88.24 pH
+ ()
+36:88.28 Protein
+ ()
+36:88.40 Sugar
+ ()
+38:00 Disinfectants (for agents used on objects other 
+than skin)
+ ()
+40:00 Electrolytic, Caloric, and Water Balance
+ ()
+40:04 Acidifying Agents
+Ammonium Chloride (382074)
+40:08 Alkalinizing Agents
+Citrate Salts (382026)
+Sodium Bicarbonate (382001)
+Sodium Lactate (382033)
+Tromethamine (382171)
+40:10 Ammonia Detoxicants
+Acetohydroxamic Acid (384050)
+Carglumic Acid (313016)
+Glycerol Phenylbuterate (379073)
+Lactulose (382338)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 17 of 31

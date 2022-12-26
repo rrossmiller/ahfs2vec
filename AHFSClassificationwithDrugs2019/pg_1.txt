@@ -1,0 +1,95 @@
+8:12.06.16 Fourth Generation Cephalosporins
+Cefepime (398021)
+8:12.06.20 Fifth Generation Cephalosporins
+Ceftaroline (311012)
+Ceftobiprole (379031)
+8:12.07 Miscellaneous beta-Lactams
+ ()
+8:12.07.04 Carbacephems
+ ()
+8:12.07.08 Carbapenems
+Doripenem (308009)
+Ertapenem (302001)
+Imipenem and Cilastatin (386013)
+Meropenem (396038)
+Meropenem and Vaborbactam (317056)
+8:12.07.12 Cephamycins
+cefoTEtan (386015)
+cefOXitin (382737)
+8:12.07.16 Monobactams
+Aztreonam (387010)
+8:12.08 Chloramphenicol
+Chloramphenicol (382216)
+8:12.12 Macrolides
+ ()
+8:12.12.04 Erythromycins
+Erythromycin (382392)
+Erythromycin Estolate (382393)
+Erythromycin Ethylsuccinate (382391)
+Erythromycin Lactobionate (382845)
+Erythromycin Stearate (382846)
+Erythromycins General Statement (382940)
+8:12.12.12 Ketolides
+Telithromycin (304011)
+8:12.12.92 Other Macrolides
+Azithromycin (397037)
+Clarithromycin (392005)
+Fidaxomicin (311029)
+8:12.16 Penicillins
+Preface to Penicillins (385901)
+8:12.16.04 Natural Penicillins
+Natural Penicillins General Statement (385904)
+Penicillin G Benzathine (385012)
+Penicillin G Potassium, Penicillin G Sodium 
+Penicillin G Procaine (385014)
+Penicillin V (385015)
+8:12.16.08 Aminopenicillins
+Aminopenicillins General Statement (385902)Amoxicillin (385001)
+Amoxicillin/Clavulanate (385024)
+Ampicillin (385002)
+Ampicillin/Sulbactam (393021)
+8:12.16.12 Penicillinase-resistant Penicillins
+Dicloxacillin (385017)
+Nafcillin (385019)
+Oxacillin (385020)
+Penicillinase-Resistant Penicillins General 
+8:12.16.16 Extended-spectrum Penicillins
+Extended-Spectrum Penicillins General 
+Piperacillin and Tazobactam (394003)
+Ticarcillin and Clavulanate (385037)
+8:12.18 Quinolones
+Ciprofloxacin (388016)
+Delafloxacin (317043)
+Gemifloxacin (303019)
+levoFLOXacin (397040)
+Moxifloxacin (300002)
+Ofloxacin (391005)
+8:12.20 Sulfonamides
+Co-trimoxazole (384026)
+sulfADIAZINE (382130)
+sulfaSALAzine (382204)
+Sulfonamides General Statement (382915)
+8:12.24 Tetracyclines
+Demeclocycline (382103)
+Doxycycline (382063)
+Minocycline (382101)
+Tetracycline (382098)
+Tetracyclines General Statement (382911)
+8:12.24.04 Aminomethylcyclines
+Omadacycline (318054)
+Sarecycline (318051)
+8:12.24.08 Fluorocyclines
+Eravacycline (318045)
+8:12.24.12 Glycylcyclines
+Tigecycline (305040)
+8:12.28 Antibacterials, Miscellaneous
+ ()
+8:12.28.04 Aminocyclitols
+ ()
+8:12.28.08 Bacitracins
+Bacitracin (382292)
+8:12.28.12 Cyclic Lipopeptides
+DAPTOmycin (303042)
+8:12.28.16 Glycopeptides
+Dalbavancin (315008)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 2 of 31

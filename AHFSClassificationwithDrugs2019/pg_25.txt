@@ -1,0 +1,100 @@
+Rabies Immune Globulin (381041)
+Raxibacumab (316019)
+Rho(D) Immune Globulin (382806)
+Smallpox Immune Globulin (379156)
+Tetanus Immune Globulin (382804)
+Vaccinia Immune Globulin IV (305009)
+Varicella Zoster Immune Globulin (384038)
+80:08 Toxoids
+Botulinum Toxoid (379022)
+Diphtheria and Tetanus Toxoids (382199)
+Diphtheria and Tetanus Toxoids and Acellular 
+80:12 Vaccines
+Adenovirus Vaccine Live Oral (315016)
+Anthrax Vaccine Adsorbed (301062)
+BCG Vaccine (382809)
+Cholera Vaccine Live Oral (317010)
+Haemophilus b Vaccine (386010)
+Hepatitis A Virus Vaccine Inactivated (395003)
+Hepatitis B Vaccine Recombinant (381052)
+Human Papillomavirus Vaccine (306016)
+Influenza Vaccine Live Intranasal (303031)
+Influenza Vaccine Recombinant (313010)
+Influenza Virus Vaccine Inactivated (395026)
+Japanese Encephalitis Vaccine (393014)
+Measles Virus Vaccine Live (382559)
+Meningococcal Group B Vaccine (317007)
+Meningococcal Groups A, C, Y, and W-135 
+Mumps Virus Vaccine Live (382561)
+Pneumococcal Vaccine (382657)
+Poliovirus Vaccine Inactivated (395016)
+Rabies Vaccine (381042)
+Rotavirus Vaccine Live Oral (306006)
+Rubella Virus Vaccine Live (382560)
+Typhoid Vaccine (382812)
+Vaccinia Vaccine (379189)
+Varicella Virus Vaccine Live (397005)
+Yellow Fever Vaccine (382813)
+Zoster Vaccine Live (306028)
+Zoster Vaccine Recombinant (317060)
+84:00 Skin and Mucous Membrane Agents
+ ()
+84:04 Anti-infectives
+ ()
+84:04.04 Antibacterials
+Bacitracin (382293)
+Clindamycin (382382)
+Erythromycin (382381)
+Gentamicin (382669)
+metroNIDAZOLE (389011)
+Mupirocin (388004)
+Neomycin (382670)Ozenoxacin (318005)
+Retapamulin (307012)
+Tetracyclines (382383)
+Dapsone (310012)
+Polymyxin B (382314)
+84:04.06 Antivirals
+Acyclovir (381036)
+Docosanol (301056)
+Penciclovir (397027)
+84:04.08 Antifungals
+ ()
+84:04.08.04 Allylamines
+Naftifine (388020)
+Terbinafine (393026)
+84:04.08.08 Azoles
+Butoconazole (386012)
+Clotrimazole (382753)
+Econazole (384049)
+Efinaconazole (314025)
+Ketoconazole (386019)
+Luliconazole (314024)
+Miconazole (382616)
+Oxiconazole (389004)
+Sertaconazole (305002)
+Sulconazole (398018)
+Terconazole (388022)
+Tioconazole (398017)
+84:04.08.12 Benzylamines
+Butenafine (397019)
+84:04.08.16 Echinocandins
+ ()
+84:04.08.20 Hydroxypyridones
+Ciclopirox (384047)
+84:04.08.24 Oxaboroles
+Tavaborole (314026)
+84:04.08.28 Polyenes
+Nystatin (382758)
+84:04.08.32 Pyrimidines
+ ()
+84:04.08.40 Thiocarbamates
+Tolnaftate (382617)
+84:04.08.92 Antifungals, Miscellaneous
+Carbol-Fuchsin (382508)
+Gentian Violet (382656)
+Sodium Thiosulfate (382504)
+Undecylenic Acid (382511)
+84:04.12 Scabicides and Pediculicides
+Benzyl Alcohol (311001)
+Benzyl Benzoate (382655)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 26 of 31

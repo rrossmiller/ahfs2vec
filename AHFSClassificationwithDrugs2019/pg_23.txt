@@ -1,0 +1,98 @@
+68:18 Gonadotropins and Antigonadotropins
+ ()
+68:18.04 Antigonadotropins
+Cetrorelix (301029)
+Degarelix (309017)
+Elagolix (318027)
+Ganirelix (399024)
+68:18.08 Gonadotropins
+Choriogonadotropin Alfa (301054)
+Gonadotropin, Chorionic (382459)
+Goserelin (302008)
+Histrelin (304025)
+Leuprolide (385040)
+Lutropin Alfa (304027)
+Nafarelin (302011)
+Triptorelin (300033)
+68:20 Antidiabetic Agents
+ ()
+68:20.02 alpha-Glucosidase Inhibitors
+Acarbose (396015)
+Miglitol (307002)
+68:20.03 Amylinomimetics
+Pramlintide (305022)
+68:20.04 Biguanides
+metFORMIN (396005)
+68:20.05 Dipeptidyl Peptidase-4 (DPP-4) Inhibitors
+Alogliptin (313043)
+Linagliptin (312009)
+sAXagliptin (311005)
+SITagliptin (307001)
+Vildagliptin (379190)
+68:20.06 Incretin Mimetics
+Albiglutide (314021)
+Dulaglutide (315021)
+Exenatide (305021)
+Liraglutide (311002)
+Lixisenatide (316060)
+Semaglutide (317067)
+68:20.08 Insulins
+Insulins General Statement (382933)
+68:20.08.04 Rapid-acting Insulins
+Insulin Aspart (300048)
+Insulin Glulisine (306009)
+Insulin Lispro (397021)
+68:20.08.08 Short-acting Insulins
+Insulin Human (384041)
+68:20.08.12 Intermediate-acting Insulins
+Insulin Aspart Protamine (379085)
+Insulin Human, Isophane (384041)Insulin Lispro Protamine (379086)
+Insulin Zinc (382612)
+68:20.08.16 Long-acting Insulins
+Insulin Degludec (316061)
+Insulin Detemir (306011)
+Insulin Glargine (300027)
+68:20.16 Meglitinides
+Nateglinide (301007)
+Repaglinide (300010)
+68:20.17 Sodium-glucose Cotransporter 1 (SGLT1) 
+Inhibitors
+ ()
+68:20.18 Sodium-glucose Cotransporter 2 (SGLT2) 
+Inhibitors
+Canagliflozin (313046)
+Dapagliflozin (314022)
+Empagliflozin (315046)
+Ertugliflozin (318004)
+68:20.20 Sulfonylureas
+chlorproPAMIDE (382479)
+Glimepiride (396016)
+glipiZIDE (384060)
+glyBURIDE (384058)
+TOLAZamide (382482)
+TOLBUTamide (382481)
+68:20.28 Thiazolidinediones
+Pioglitazone (399016)
+Rosiglitazone (399023)
+68:20.92 Antidiabetic Agents, Miscellaneous
+Bromocriptine (382079)
+Colesevelam (301041)
+68:22 Antihypoglycemic Agents
+ ()
+68:22.12 Glycogenolytic Agents
+Glucagon (382480)
+68:22.92 Antihypoglycemic Agents, Miscellaneous
+Diazoxide (382247)
+68:24 Parathyroid and Antiparathyroid Agents
+ ()
+68:24.04 Antiparathyroid Agents
+Calcitonin (382788)
+Cinacalcet (304009)
+Etelcalcetide (317026)
+68:24.08 Parathyroid Agents
+Abaloparatide (317036)
+Parathyroid Hormone (315047)
+Teriparatide (302043)
+68:28 Pituitary
+Corticotropin (382743)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 24 of 31

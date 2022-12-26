@@ -1,0 +1,101 @@
+Sultiame (379174)
+tiaGABine (398014)
+Topiramate (397012)
+Valproate/Divalproex (382412)
+Vigabatrin (310015)
+Zonisamide (301027)
+acetaZOLAMIDE (382756)
+Carbonic Anhydrase Inhibitors General Statement 
+28:16 Psychotherapeutic Agents
+ ()
+28:16.04 Antidepressants
+ ()
+28:16.04.12 Monoamine Oxidase Inhibitors
+Isocarboxazid (379093)
+MAO Inhibitors General Statement (382904)
+Phenelzine (382089)
+Tranylcypromine (382088)
+Rasagiline (306024)
+Selegiline (397046)
+28:16.04.16 Selective Serotonin- and Norepinephrine-
+reuptake Inhibitors
+Desvenlafaxine (308014)
+DULoxetine (304021)
+Levomilnacipran (314010)
+Venlafaxine (394020)
+Milnacipran (309009)
+28:16.04.20 Selective Serotonin-reuptake Inhibitors
+Citalopram (399001)
+Escitalopram (302034)
+FLUoxetine (389006)
+fluvoxaMINE (395004)
+PARoxetine (398032)
+Sertraline (397048)
+Vilazodone (311016)
+28:16.04.24 Serotonin Modulators
+Nefazodone (395005)
+traZODone (381038)
+Vilazodone (311016)
+Vortioxetine (314019)
+28:16.04.28 Tricyclics and Other Norepinephrine-
+reuptake Inhibitors
+Amitriptyline (382388)
+Amoxapine (382202)
+clomiPRAMINE (397002)
+Desipramine (382387)
+Doxepin (382390)
+Imipramine (382389)
+Maprotiline (382158)
+Nortriptyline (382620)
+Protriptyline (381001)
+Tricyclic Antidepressants General Statement Trimipramine (382282)
+28:16.04.92 Antidepressants, Miscellaneous
+buPROPion (395033)
+Mirtazapine (397009)
+28:16.08 Antipsychotics
+ ()
+28:16.08.04 Atypical Antipsychotics
+ARIPiprazole (302040)
+ARIPiprazole w/sensor (318006)
+Asenapine (310014)
+Brexpiprazole (316045)
+Cariprazine (316046)
+cloZAPine (391001)
+Iloperidone (310007)
+Lurasidone (311013)
+OLANZapine (397011)
+Paliperidone (307003)
+Pimavanserin (316047)
+QUEtiapine (398019)
+risperiDONE (394015)
+Ziprasidone (301013)
+28:16.08.08 Butyrophenones
+Haloperidol (382180)
+28:16.08.24 Phenothiazines
+chlorproMAZINE (382040)
+fluPHENAZine (382172)
+Perphenazine (382165)
+Phenothiazines General Statement (382905)
+Prochlorperazine (382116)
+Thioridazine (382119)
+Trifluoperazine (382121)
+28:16.08.32 Thioxanthenes
+Thiothixene (382867)
+28:16.08.92 Antipsychotics, Miscellaneous
+Loxapine (382311)
+Molindone (382238)
+Pimozide (386018)
+28:16.92 Psychotherapeutic Agents, Miscellaneous
+ ()
+28:20 Anorexigenic Agents and Respiratory and 
+CNS Stimulants
+ ()
+28:20.04 Amphetamines
+Amphetamine (382069)
+Amphetamines General Statement (382902)
+Benzphetamine (382070)
+Dextroamphetamine (382041)
+Lisdexamfetamine (307017)
+Methamphetamine (382184)
+28:20.08 Anorexigenic Agents
+© 2019, American Society of Health-System Pharmacists, Inc. Page 14 of 31

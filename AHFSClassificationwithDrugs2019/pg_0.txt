@@ -1,0 +1,96 @@
+AHFS Pharmacologic-Therapeutic Classification System
+4:00 Antihistamine Drugs
+Antihistamines General Statement (382920)
+4:04 First Generation Antihistamines
+Brompheniramine (382545)
+Carbinoxamine (382883)
+Chlorpheniramine (382543)
+Clemastine (382542)
+Cyproheptadine (382541)
+diphenhydrAMINE (382539)
+Doxylamine (382537)
+Promethazine (382752)
+Triprolidine (382533)
+dimenhyDRINATE (382140)
+hydrOXYzine (382866)
+Meclizine (382548)
+4:04.04 Ethanolamine Derivatives
+Carbinoxamine (382883)
+Clemastine (382542)
+diphenhydrAMINE (382539)
+Doxylamine (382537)
+4:04.08 Ethylenediamine Derivatives
+ ()
+4:04.12 Phenothiazine Derivatives
+Promethazine (382752)
+4:04.16 Piperazine Derivatives
+ ()
+4:04.20 Propylamine Derivatives
+Brompheniramine (382545)
+Chlorpheniramine (382543)
+Triprolidine (382533)
+4:04.92 Miscellaneous Derivatives
+Cyproheptadine (382541)
+4:08 Second Generation Antihistamines
+Acrivastine (394040)
+Cetirizine (398026)
+Desloratadine (302004)
+Fexofenadine (397035)
+Levocetirizine (307015)
+Loratadine (397038)
+Lodoxamide (394014)
+4:92 Other Antihistamines
+Cimetidine (382256)
+Emedastine (399007)
+Famotidine (387011)
+hydrOXYzine (382866)
+Ketotifen (399018)
+Nizatidine (394030)Olopatadine (399006)
+raNITIdine (384046)
+8:00 Anti-infective Agents
+ ()
+8:08 Anthelmintics
+Albendazole (397043)
+Bithionol (379021)
+Diethylcarbamazine (379044)
+Ivermectin (304023)
+Mebendazole (382315)
+Moxidectin (379122)
+Praziquantel (384064)
+Pyrantel (382820)
+Triclabendazole (379185)
+8:12 Antibacterials
+ ()
+8:12.02 Aminoglycosides
+Amikacin (382661)
+Aminoglycosides General Statement (382929)
+Gentamicin (382664)
+Neomycin (382662)
+Plazomicin (318024)
+Streptomycin (382665)
+Tobramycin (382660)
+Paromomycin (382152)
+8:12.06 Cephalosporins
+Cephalosporins General Statement (382930)
+8:12.06.04 First Generation Cephalosporins
+Cefadroxil (382730)
+ceFAZolin (382731)
+Cephalexin (382733)
+8:12.06.08 Second Generation Cephalosporins
+Cefaclor (382729)
+Cefprozil (398022)
+Cefuroxime (384044)
+cefoTEtan (386015)
+cefOXitin (382737)
+8:12.06.12 Third Generation Cephalosporins
+Cefdinir (398001)
+Cefditoren (301058)
+Cefixime (390007)
+Cefotaxime (382765)
+Cefpodoxime (398024)
+cefTAZidime (386007)
+cefTAZidime and Avibactam Sodium (315028)
+Ceftibuten (398023)
+Ceftolozane Sulfate and Tazobactam Sodium 
+cefTRIAXone (385032)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 1 of 31

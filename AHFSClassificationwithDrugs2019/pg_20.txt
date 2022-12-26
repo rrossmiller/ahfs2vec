@@ -1,0 +1,99 @@
+Triamcinolone (301019)
+52:08.20 Nonsteroidal Anti-inflammatory Agents
+Bromfenac (305016)
+Flurbiprofen (387005)
+Ketorolac (393001)
+Nepafenac (305049)
+52:08.92 Anti-inflammatory Agents, Miscellaneous
+cycloSPORINE (303001)
+Lifitegrast (316055)
+52:12 Contact Lens Solutions
+ ()
+52:16 Local Anesthetics
+Benoxinate (oxybuprocaine) (379019)
+Benzocaine (382484)
+Cocaine (382372)
+Dyclonine (382500)
+Phenol (379136)
+Proparacaine (382371)
+Tetracaine (382486)
+52:24 Mydriatics
+Atropine (382487)
+Cyclopentolate (382488)
+Dipivefrin (386005)
+EPINEPHrine (382267)
+Homatropine (382351)
+Phenylephrine (382288)
+Scopolamine (382509)
+Tropicamide (382353)
+52:28 Mouthwashes and Gargles
+Hydrogen Peroxide (382354)
+52:32 Vasoconstrictors
+EPINEPHrine (382266)
+Naphazoline (382268)
+Oxymetazoline (382562)
+Phenylephrine (382621)
+Propylhexedrine (382269)
+Tetrahydrozoline (382563)
+52:40 Antiglaucoma Agents
+ ()
+52:40.04 alpha-Adrenergic Agonists
+Brimonidine (303015)
+52:40.08 beta-Adrenergic Blocking Agents
+Betaxolol (386004)
+Levobunolol (386011)
+Metipranolol (379116)
+Timolol (382043)
+52:40.12 Carbonic Anhydrase Inhibitors
+acetaZOLAMIDE (382756)
+Brinzolamide (301037)Carbonic Anhydrase Inhibitors General 
+Dorzolamide (397049)
+methazolAMIDE (382754)
+Dichlorphenamide (316077)
+52:40.20 Miotics
+Acetylcholine (382406)
+Carbachol (382404)
+Miotics General Statement (382943)
+Pilocarpine (382874)
+52:40.24 Osmotic Agents
+Mannitol (382645)
+Urea (382842)
+52:40.28 Prostaglandin Analogs
+Bimatoprost (301015)
+Latanoprost (397003)
+Latanoprostene Bunod (317061)
+Tafluprost (312022)
+Travoprost (301016)
+52:40.32 Rho Kinase Inhibitors
+Netarsudil (318002)
+52:40.92 Antiglaucoma Agents, Miscellaneous
+Dipivefrin (386005)
+EPINEPHrine (382267)
+52:92 EENT Drugs, Miscellaneous
+Aflibercept (312025)
+Alcohol, Isopropyl (379002)
+Apraclonidine (388017)
+Cenegermin-bkbj (318061)
+Cysteamine (314014)
+Hydroxypropyl Cellulose (379083)
+Ocriplasmin (313006)
+Pegaptanib (305011)
+Propylene Glycol (379142)
+Ranibizumab (306023)
+Riboflavin 5'-phosphate (379146)
+Verteporfin (300012)
+Cromolyn (382713)
+Cromolyn (306027)
+Voretigene Neparvovec-rzyl (379191)
+56:00 Gastrointestinal Drugs
+ ()
+56:04 Antacids and Adsorbents
+Aluminum Carbonate (379006)
+Aluminum Hydroxide (379007)
+Aluminum Phosphate (379008)
+Antacids (382762)
+Calcium Carbonate (379027)
+Charcoal, Activated (382844)
+Dihydroxyaluminum Aminoacetate (379045)
+Dihydroxyaluminum Sodium Carbonate (379046)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 21 of 31

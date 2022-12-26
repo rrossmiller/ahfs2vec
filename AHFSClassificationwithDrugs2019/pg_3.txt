@@ -1,0 +1,97 @@
+Elvitegravir, Cobicistat, Emtricitabine, and 
+Raltegravir (307032)
+8:18.08.16 HIV Nonnucleoside Reverse Transcriptase 
+Inhibitors
+Delavirdine (300034)
+Doravirine (318043)
+Efavirenz (399004)
+Etravirine (308007)
+Nevirapine (300035)
+Rilpivirine (311021)
+Dolutegravir and Rilpivirine (317064)
+8:18.08.20 HIV Nucleoside and Nucleotide Reverse 
+Transcriptase Inhibitors
+Abacavir (399012)
+Didanosine (391006)
+Emtricitabine (303035)
+lamiVUDine (396011)
+Stavudine (394033)
+Tenofovir Alafenamide (316083)
+Tenofovir Disoproxil Fumarate (301063)
+Zidovudine (387007)
+Elvitegravir, Cobicistat, Emtricitabine, and 
+Elvitegravir, Cobicistat, Emtricitabine, and 
+8:18.08.92 Antiretrovirals, Miscellaneous
+ ()
+8:18.20 Interferons
+Interferon Alfa (301061)
+Peginterferon Alfa (301060)
+Interferon Alfa (390006)
+8:18.24 Monoclonal Antibodies
+Palivizumab (398034)
+8:18.28 Neuraminidase Inhibitors
+Oseltamivir (399040)
+Peramivir (315026)
+Zanamivir (399021)
+8:18.32 Nucleosides and Nucleotides
+Acyclovir (381045)
+Adefovir (302036)
+Cidofovir (396037)
+Entecavir (305015)
+Famciclovir (394038)
+Ganciclovir (389014)
+Ribavirin (386021)
+Telbivudine (307005)
+Tenofovir Alafenamide (316083)
+valACYclovir (395010)
+valGANciclovir (301022)
+8:18.40 HCV Antivirals
+ ()8:18.40.04 HCV Cyclophilin Inhibitors*
+ ()
+8:18.40.08 HCV Entry Inhibitors*
+ ()
+8:18.40.16 HCV Polymerase Inhibitors
+Dasabuvir (379037)
+Dasabuvir, Ombitasvir, Paritaprevir, and 
+Sofosbuvir (314012)
+Sofosbuvir and Velpatasvir (317003)
+Sofosbuvir, Velpatasvir, Voxilaprevir (317048)
+Ledipasvir and Sofosbuvir (315020)
+8:18.40.20 HCV Protease Inhibitors
+Asunaprevir (379014)
+Faldaprevir (379057)
+Glecaprevir (317051)
+Glecaprevir And Pibrentasvir (317051)
+Paritaprevir (379133)
+Simeprevir (314011)
+Voxilaprevir (379192)
+Dasabuvir, Ombitasvir, Paritaprevir, and Ritonavir 
+Ombitasvir, Paritaprevir, Ritonavir (316012)
+8:18.40.24 HCV Replication Complex Inhibitors
+Daclatasvir (316011)
+Elbasvir and Grazoprevir (316014)
+Ledipasvir and Sofosbuvir (315020)
+Ombitasvir, Paritaprevir, Ritonavir (316012)
+Pibrentasvir (317051)
+Dasabuvir, Ombitasvir, Paritaprevir, and Ritonavir 
+Sofosbuvir and Velpatasvir (317003)
+8:18.40.92 HCV Antivirals, Miscellaneous*
+ ()
+8:18.92 Antivirals, Miscellaneous
+Baloxavir (318058)
+Foscarnet (392019)
+Letermovir (317062)
+Tecovirimat (318039)
+8:30 Antiprotozoals
+ ()
+8:30.04 Amebicides
+Dehydroemetine (379038)
+Iodoquinol (382151)
+Paromomycin (382152)
+metroNIDAZOLE (382244)
+8:30.08 Antimalarials
+Artemether and Lumefantrine (309016)
+Artesunate (379012)
+Atovaquone and Proguanil (300038)
+Chloroquine (382318)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 4 of 31

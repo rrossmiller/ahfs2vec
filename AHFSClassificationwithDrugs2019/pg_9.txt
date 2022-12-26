@@ -1,0 +1,97 @@
+Metoprolol (382864)
+Pindolol (384032)
+Propranolol (382607)
+Sotalol (393010)
+Timolol (384029)
+24:04.04.20 Class III Antiarrhythmics
+Amiodarone (387009)
+Bretylium (379024)
+Dofetilide (300008)
+Dronedarone (309025)
+Ibutilide (396017)
+Sotalol (393010)
+24:04.04.24 Class IV Antiarrhythmics
+Adenosine (304010)
+dilTIAZem (384027)
+Verapamil (384030)
+24:04.04.92 Antiarrhythmics, Miscellaneous
+Cardiac Glycosides General Statement (382934)
+Digoxin (382301)
+24:04.08 Cardiotonic Agents
+Cardiac Glycosides General Statement (382934)
+Digoxin (382301)
+Milrinone (303013)
+DOBUTamine (382861)
+DOPamine (382529)
+24:04.92 Cardiac Drugs, Miscellaneous
+Ivabradine Hydrochloride (316041)
+Ranolazine (306010)
+24:06 Antilipemic Agents
+ ()
+24:06.04 Bile Acid Sequestrants
+Cholestyramine (382672)
+Colesevelam (301041)
+Colestipol (382157)
+24:06.05 Cholesterol Absorption Inhibitors
+Ezetimibe (302039)
+24:06.06 Fibric Acid Derivatives
+Fenofibrate (301038)
+Gemfibrozil (386002)
+24:06.08 HMG-CoA Reductase Inhibitors
+Atorvastatin (300045)
+Fluvastatin (394010)
+HMG-CoA Reductase Inhibitors General 
+Lovastatin (388006)
+Pitavastatin (311003)
+Pravastatin (392025)
+Rosuvastatin (303040)
+Simvastatin (392030)24:06.24 Proprotein Convertase Subtilisin Kexin Type 
+9 (PCSK9) Inhibitors
+Alirocumab (316009)
+Evolocumab (316010)
+24:06.92 Antilipemic Agents, Miscellaneous
+Icosapent Ethyl (313008)
+Lomitapide (314017)
+Mipomersen (314018)
+Niacin (382518)
+Omega-3-acid Ethyl Esters (306002)
+24:08 Hypotensive Agents
+ ()
+24:08.04 alpha-Adrenergic Blocking Agents
+Labetalol (385034)
+Prazosin (382245)
+24:08.08 beta-Adrenergic Blocking Agents
+Atenolol (384031)
+Esmolol (387013)
+Labetalol (385034)
+Metoprolol (382864)
+24:08.12 Calcium-Channel Blocking Agents
+ ()
+24:08.12.08 Dihydropyridines
+Clevidipine (308026)
+24:08.12.92 Calcium-Channel Blocking Agents, 
+Miscellaneous
+dilTIAZem (384027)
+Verapamil (384030)
+24:08.16 Central alpha-Agonists
+cloNIDine (382243)
+Guanabenz (386003)
+guanFACINE (308013)
+Methyldopa (382242)
+24:08.20 Direct Vasodilators
+Fenoldopam (308018)
+hydrALAZINE (382246)
+Minoxidil (382608)
+Sodium Nitroprusside (382241)
+Diazoxide (382247)
+24:08.24 Diuretics
+ ()
+24:08.24.04 Carbonic Anhydrase Inhibitors
+acetaZOLAMIDE (382756)
+24:08.24.08 Loop Diuretics
+Bumetanide (384051)
+Ethacrynic Acid (382857)
+Furosemide (382858)
+Torsemide (394018)
+24:08.24.12 Osmotic Diuretics
+© 2019, American Society of Health-System Pharmacists, Inc. Page 10 of 31

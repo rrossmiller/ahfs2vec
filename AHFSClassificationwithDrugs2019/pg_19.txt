@@ -1,0 +1,102 @@
+Oxtriphylline (379129)
+Theophyllines (381006)
+48:14 Cystic Fibrosis Transmembrane Conductance 
+Regulator Modulators
+ ()
+48:14.04 Cystic Fibrosis Transmembrane Conductance 
+Regulator Correctors
+Lumacaftor and Ivacaftor (316053)
+Tezacaftor and Ivacaftor (318009)
+48:14.12 Cystic Fibrosis Transmembrane Conductance 
+Regulator Potentiators
+Ivacaftor (312031)
+48:16 Expectorants
+guaiFENesin (382494)
+Potassium Iodide (382498)
+48:24 Mucolytic Agents
+Dornase Alfa (394002)
+Acetylcysteine (382638)
+48:32 Phosphodiesterase Type 4 Inhibitors
+Roflumilast (311030)
+48:36 Pulmonary Surfactants
+Beractant (392012)
+Lucinactant (379099)
+Poractant Alfa (300050)
+48:48 Vasodilating Agents
+Ambrisentan (307014)
+Bosentan (301066)
+Epoprostenol (304017)
+Iloprost (305042)
+Macitentan (314009)
+Riociguat (314008)
+Selexipag (316054)
+Treprostinil (302021)
+Nitric Oxide (301043)
+Sildenafil (399015)
+Tadalafil (303047)
+48:92 Respiratory Tract Agents, Miscellaneous
+alpha1-Proteinase Inhibitor (304029)
+Omalizumab (303033)
+52:00 Eye, Ear, Nose, and Throat (EENT) 
+Preparations
+ ()
+52:02 Antiallergic Agents
+Alcaftadine (311014)
+Azelastine (397014)
+Bepotastine (310021)
+Cetirizine (379032)
+Cromolyn (306027)
+Emedastine (399007)
+Epinastine (304003)Ketotifen (399018)
+Lodoxamide (394014)
+Nedocromil (301053)
+Olopatadine (399006)
+Pemirolast (301018)
+Cromolyn (382713)
+52:04 Anti-infectives
+ ()
+52:04.04 Antibacterials
+Bacitracin (382294)
+Besifloxacin (309022)
+Ciprofloxacin (393022)
+Doxycycline (302018)
+Erythromycin (382044)
+Finafloxacin (379059)
+Gatifloxacin (303018)
+Gentamicin (382275)
+levoFLOXacin (301035)
+Minocycline (301044)
+Moxifloxacin (303022)
+Neomycin (382274)
+Ofloxacin (394004)
+Polymyxin B (382843)
+Sulfacetamide Sodium (382045)
+Tobramycin (381003)
+52:04.16 Antifungals
+Natamycin (382219)
+52:04.20 Antivirals
+Ganciclovir (316006)
+Trifluridine (382276)
+52:04.92 Anti-infectives, Miscellaneous
+Carbamide Peroxide (382362)
+Chlorhexidine (302009)
+Zinc Sulfate (382361)
+52:08 Anti-inflammatory Agents
+ ()
+52:08.08 Corticosteroids
+Beclomethasone (381047)
+Budesonide (303008)
+Ciclesonide (308032)
+Dexamethasone (382869)
+Difluprednate (308031)
+EENT Corticosteroids General Statement 
+Flunisolide (381048)
+Fluocinolone (305019)
+Fluorometholone (382870)
+Fluticasone (395002)
+Hydrocortisone (382871)
+Loteprednol (399008)
+Mometasone (301021)
+prednisoLONE (382873)
+Rimexolone (396035)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 20 of 31

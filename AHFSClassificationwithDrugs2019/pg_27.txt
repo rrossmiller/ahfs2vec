@@ -1,0 +1,100 @@
+Bexarotene (300040)
+Brimonidine (315044)
+Brodalumab (317014)
+Calcipotriene (394008)
+Collagenase (382674)
+Dapsone (310012)
+Dextranomer (382877)
+Doxycycline (306017)
+Dupilumab (317025)
+Eflornithine (301026)
+Fibrin Sealant (308036)
+Finasteride (398016)
+Fluorouracil (382708)
+Glycopyrronium (318033)
+Guselkumab (317046)
+Hydrogen Peroxide (318003)
+Imiquimod (398010)
+Ingenol Mebutate (313013)
+ISOtretinoin (381043)
+Ixekizumab (316069)
+Mechlorethamine (315006)
+Methyl Aminolevulinate (379114)
+Minoxidil (389003)
+Nitroglycerin (314023)
+Oxymetazoline (317008)
+Pimecrolimus (302003)
+Podofilox (398011)
+Podophyllum Resin (382448)
+Secukinumab (315024)
+Sinecatechins (308037)
+Tacrolimus (301040)
+Tazarotene (397031)
+Tildrakizumab-asmn (318030)
+Ustekinumab (311010)
+Apremilast (315003)
+inFLIXimab, -abda, -dyyb, -qbtx (301005)
+86:00 Smooth Muscle Relaxants
+ ()
+86:08 Gastrointestinal Smooth Muscle Relaxants
+ ()
+86:12 Genitourinary Smooth Muscle Relaxants
+ ()
+86:12.04 Antimuscarinics
+Darifenacin (305008)
+Fesoterodine (309006)
+flavoxATE (382706)
+Oxybutynin (382141)
+Solifenacin (305007)
+Tolterodine (399026)
+Trospium (304019)
+86:12.08 beta-3 Adrenergic Agonists
+ ()86:12.08.12 Selective beta-3 Adrenergic Agonists
+Mirabegron (313011)
+86:16 Respiratory Smooth Muscle Relaxants
+Theophyllines (381006)
+Sildenafil (399015)
+88:00 Vitamins
+ ()
+88:04 Vitamin A
+Beta Carotene (382615)
+Vitamin A (382592)
+88:08 Vitamin B Complex
+Folic Acid (382591)
+Niacin/Niacinamide (382588)
+Pantothenic Acid (382589)
+Pyridoxine (382587)
+Riboflavin (382585)
+Thiamine (382586)
+Vitamin B12 (382397)
+Leucovorin (382336)
+88:12 Vitamin C
+Ascorbic Acid (382583)
+88:16 Vitamin D
+Calcifediol (317005)
+Calcitriol (382335)
+Dihydrotachysterol (382334)
+Doxercalciferol (399027)
+Ergocalciferol (382333)
+Paricalcitol (301071)
+Vitamin D Analogs General Statement (382927)
+88:20 Vitamin E
+Vitamin E (382584)
+88:24 Vitamin K Activity
+Phytonadione (382659)
+88:28 Multivitamin Preparations
+Multivitamins (382882)
+92:00 Miscellaneous Therapeutic Agents
+ ()
+92:04 Alcohol Deterrents
+Disulfiram (382602)
+Naltrexone (385041)
+92:08 5-alpha-Reductase Inhibitors
+Dutasteride (302002)
+Finasteride (392036)
+Finasteride (398016)
+92:12 Antidotes
+Acetylcysteine (382638)
+Fomepizole (398015)
+Glucarpidase (312015)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 28 of 31

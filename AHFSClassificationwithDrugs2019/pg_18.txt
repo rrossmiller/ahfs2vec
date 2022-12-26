@@ -1,0 +1,101 @@
+44:00 Enzymes
+Agalsidase Beta (303023)
+Alglucosidase Alfa (310013)
+Asfotase Alfa (316049)
+Cerliponase Alfa (317035)
+Collagenase Clostridium Histolyticum (311015)
+Elapegademase-lvlr (318053)
+Elosulfase Alfa (316008)
+Galsulfase (305039)
+Idursulfase (310011)
+Imiglucerase (304024)
+Laronidase (303024)
+Pegademase bovine (379134)
+Pegvaliase-pqpz (318018)
+Rasburicase (302031)
+Sacrosidase (301036)
+Sebelipase Alfa (316050)
+Taliglucerase Alfa (313018)
+Velaglucerase Alfa (313012)
+Vestronidase Alfa-vjbk (317066)
+Alteplase (389001)
+Asparaginase (Erwinia chrysanthemi) (312023)
+Collagenase (382674)
+Dornase Alfa (394002)
+Pancrelipase (382719)
+Pegaspargase (395031)
+Reteplase (301057)
+Tenecteplase (300037)
+48:00 Respiratory Tract Agents
+ ()
+48:02 Antifibrotic Agents
+Nintedanib (315042)
+Pirfenidone (315043)
+48:04 Antihistamines
+Antihistamines General Statement (382920)
+48:04.04 First Generation Antihistamines
+Brompheniramine (382545)
+Carbinoxamine (382883)
+Chlorpheniramine (382543)
+Clemastine (382542)
+Cyproheptadine (382541)
+diphenhydrAMINE (382539)
+Doxylamine (382537)
+Triprolidine (382533)
+48:04.08 Second Generation Antihistamines
+Acrivastine (394040)
+Azelastine (397014)
+Cetirizine (398026)
+48:08 Antitussives
+Benzonatate (382640)
+Codeine (382491)
+Dextromethorphan (382492)HYDROcodone (382495)
+diphenhydrAMINE (382539)
+48:10 Anti-inflammatory Agents
+ ()
+48:10.08 Corticosteroids
+ ()
+48:10.08.04 Nasal Preparations
+Beclomethasone (381047)
+Budesonide (303008)
+Flunisolide (381048)
+Fluticasone (395002)
+Mometasone (301021)
+Triamcinolone (301019)
+48:10.08.08 Orally Inhaled Preparations
+Beclomethasone (381050)
+Budesonide (303009)
+Flunisolide (385022)
+Triamcinolone (382791)
+48:10.20 Interleukin Antagonists
+Benralizumab (317063)
+Mepolizumab (316051)
+Reslizumab (316052)
+48:10.24 Leukotriene Modifiers
+Montelukast (300014)
+Zafirlukast (397007)
+Zileuton (397013)
+48:10.32 Mast-cell Stabilizers
+Cromolyn (382713)
+48:12 Bronchodilators
+ ()
+48:12.04 Adrenergic Agents
+ ()
+48:12.04.08 Non-selective beta-Adrenergic Agonists
+Isoproterenol (382606)
+48:12.04.12 Selective beta-2-Adrenergic Agonists
+Albuterol/Levalbuterol (382145)
+Formoterol (301023)
+Metaproterenol (382084)
+Terbutaline (382144)
+48:12.04.16 alpha- and beta-Adrenergic Agonists
+ePHEDrine (382253)
+EPINEPHrine (382789)
+Pseudoephedrine (382619)
+48:12.08 Anticholinergic Agents
+Atropine (384024)
+Ipratropium (395021)
+Tiotropium (304004)
+48:12.12 Xanthine Derivatives
+Diphylline (379048)
+© 2019, American Society of Health-System Pharmacists, Inc. Page 19 of 31
